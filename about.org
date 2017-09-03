@@ -1,0 +1,25 @@
+---
+title: Om
+---
+
+Hei!
+
+Jeg heter Teodor.
+
+Tre ting jeg bryr meg om:
+
+- *Informasjonsteknologi* :: Utvikling, programmeringsspråk, teknologier
+- *Sivilingeniørprofesjonen** :: Statikk, elementanalyse, likevekt,
+     ikkelineariteter, dimensjonering av stål og betong
+- *Undervisning* :: Formidlingsevne; studentassistent, Lær Kidsa Koding
+
+Kryssrelasjonene er særlig spennende. Lærbar programmering? Programmering for
+sivilingeniører? Hvordan kan sivilingeniører lære programmering? Her føler jeg
+potensial!
+
+*Jeg er fullt klar over at man kan få en sivilingeniørgrad uten mekanikk, men
+jeg sliter med å finne et bedre uttrykk for kulturen for rasjonalitet, sannhet
+og gode løsninger jeg ser i sivilingeniøren. Det er denne kulturen som
+interesserer meg, ikke nødvendigvis momentdiagrammene eller likevektslikningene.
+"En naturlovenes forekjemper i et samfunn av kaos" er en mulig ukritisk positivt
+betont beskrivelse.
