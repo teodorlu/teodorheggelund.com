@@ -10,18 +10,7 @@ interest when I feel that I've cracked the nut. Actually pushing something to
 completion is a valuable experience. 
 
 The system for sharing knowledge should remove barriers from the flow of
-information:
-
-- Writing in the system should be comfortable and flexible. When 
-
-* Preface
-I've been looking for a good declarative way of storing and sharing information
-for a while. Conditions:
-
-- Ease of reading. Reading should be easy and comfortable.
-- Ease of writing. Writing should be comfortable and flexible.
-
-And the entire thing should be pretty.
-* Ease of reading on the web
-Having static, declarative pages
-
+information. Writing in the system should be comfortable and flexible: It should
+not distract from writing, and should not limit what can be communicated. The
+reader should be able to find the content and understand it. This is what I try
+to accomplish.
