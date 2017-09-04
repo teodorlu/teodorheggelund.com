@@ -10,7 +10,6 @@ maintainer:          teodor@teodorheggelund.com
 copyright:           2017 Author name here
 category:            Web
 build-type:          Simple
-extra-source-files:  README.md
 cabal-version:       >=1.10
 
 executable teodorheggelund-com
