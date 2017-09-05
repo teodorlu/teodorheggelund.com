@@ -1,5 +1,5 @@
 ---
-title: JavaScript -- takk for all fisken
+title: "JavaScript: takk for all fisken"
 author: Teodor Heggelund
 ---
 
