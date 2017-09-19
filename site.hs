@@ -15,7 +15,11 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["about.org", "contact.org"]) $ do
+    match "static/*" $ do
+      route idRoute
+      compile copyFileCompiler
+
+    match (fromList ["value.org", "contact.org"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
