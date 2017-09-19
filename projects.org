@@ -1,8 +1,44 @@
 ---
-title: Verdiskapning
+title: Åpne prosjekter
 ---
 
-Hei!
+Dette er en oversikt over ting jeg har laget og lagt åpent tilgjengelig på nett.
+** Kodeklubben Oslo
+Kodeklubben Oslo er et gratis tilbud for barn og unge som vil lære
+programmering. Jeg har planlagt, gjennomført og veiledet under kurs, samt
+skrevet oppgaver.
+*** Elm
+Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
+er samlet i en [[http://teodorheggelund.com/static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
 
-Her legger jeg ut ting jeg har laget som jeg anser som verdifulle.
-** Progr
+Typisk materiell for å lære seg Elm på nett er for personer som allerede er
+utviklere. Opplegget på Elm-kurset måtte være mer tilgjengelig; tidligere
+erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje litt Python.
+
+- [[http://oppgaver.kidsakoder.no/web/hvor_er_html/hvor_er_html.html][Hvor er HTML]] gir en visuell introduksjon til hvordan nettleseren leser og
+  tolker HTML
+- [[http://oppgaver.kidsakoder.no/elm/01_prov_i_nettleser/01_prov_i_nettleser.html][Prøv Elm i nettleseren]] introduser Elm-kode ved litt prøv og feil. Deltagerene
+  får se hvordan fungerende kode ser ut, og hva resultatet er.
+- [[http://oppgaver.kidsakoder.no/elm/02_funksjoner_elm_repl/02_funksjoner_elm_repl.html][Elm repl og funksjoner]] viser hvordan vi kan bruke ~elm repl~ å lage og teste
+  funksjoner.
+- [[http://oppgaver.kidsakoder.no/elm/03_moduler_elm_reactor/03_moduler_elm_reactor.html][Elm reactor og moduler]] (av Alexander Perry) viser hvordan vi kan gjøre rask
+  utvikling med ~elm reactor~, og hvordan vi kan splitte opp kode vi skriver i
+  forskjellige filer med moduler.
+- [[http://oppgaver.kidsakoder.no/elm/04_input/04_input.html][Input fra brukeren]] (av Alexander Perry) viser hvordan vi kan /reagere/ på hva
+  brukeren gjør i programmet vårt.
+- [[http://oppgaver.kidsakoder.no/elm/05_tegne/05_tegne.html][Tegning med SVG]] viser hvordan vi kan tegne figuerer på nettsiden vår. Vi ser
+  på SVG sin rolle, koordinatsystemer og kurver.
+- [[http://oppgaver.kidsakoder.no/elm/06_lare_andres_spill/06_lare_andres_spill.html][Lær av et annet spill]] gir trening i å /lese/ kode. Vi laster ned spillet Elm
+  Joust, og ser på hvordan spillet er bygget opp. Vi lærer å kompilere spillet
+  selv, samt gjør noen endringer i farger og fysikkmotor.
+- [[http://oppgaver.kidsakoder.no/elm/07_tell_sekunder/07_tell_sekunder.html][Tell sekunder]] viser hvordan vi bruker /tid/ i Elm. Hvor mange sekunder har
+  gått siden vi åpnet siden? Kan vi få siden til å blinke?
+- [[http://oppgaver.kidsakoder.no/elm/08_mus/08_mus.html][Kontroller med musen]] lar oss reagere på musebevegelser. Vi ser at hvordan vi
+  tenker på musen er overraskende likt hvordan vi tenker på tid!
+- [[http://oppgaver.kidsakoder.no/elm/09_egen_kode/09_egen_kode.html][Skrive egen kode]] (av Erik Aasmundrud) går tilbake til start, og gir
+  mengdetrenging i å lage funksjoner.
+- 
+** Undervisning i Python
+Jeg
+
+- Lærerkonferanse
