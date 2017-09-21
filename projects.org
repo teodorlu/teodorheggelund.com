@@ -3,17 +3,17 @@ title: Åpne prosjekter
 ---
 
 Dette er en oversikt over ting jeg har laget og lagt åpent tilgjengelig på nett.
-** Kodeklubben Oslo
-Kodeklubben Oslo er et gratis tilbud for barn og unge som vil lære
-programmering. Jeg har planlagt, gjennomført og veiledet under kurs, samt
-skrevet oppgaver.
-*** Elm
+
+Mye er relatert til [[https://kidsakoder.no/kodeklubb/oslo/][Kodeklubben Oslo]]. Kodeklubben Oslo er et gratis tilbud for
+barn og unge som vil lære programmering. Jeg har planlagt, gjennomført og
+veiledet under kurs, samt skrevet oppgaver.
+** Elm
 Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
-er samlet i en [[http://teodorheggelund.com/static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
+er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
 
 Typisk materiell for å lære seg Elm på nett er for personer som allerede er
 utviklere. Opplegget på Elm-kurset måtte være mer tilgjengelig; tidligere
-erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje litt Python.
+erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje litt [[https://www.python.org][Python]].
 
 - [[http://oppgaver.kidsakoder.no/web/hvor_er_html/hvor_er_html.html][Hvor er HTML]] gir en visuell introduksjon til hvordan nettleseren leser og
   tolker HTML
@@ -37,8 +37,25 @@ erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje 
   tenker på musen er overraskende likt hvordan vi tenker på tid!
 - [[http://oppgaver.kidsakoder.no/elm/09_egen_kode/09_egen_kode.html][Skrive egen kode]] (av Erik Aasmundrud) går tilbake til start, og gir
   mengdetrenging i å lage funksjoner.
-- 
-** Undervisning i Python
-Jeg
+- I [[http://oppgaver.kidsakoder.no/elm/10_fraktaler/10_fraktaler.html][Fraktaler]] definerer vi hva en fraktal er, og lærer å tegne våre egne. For å
+  få til det, må vi innføre ~map~ og ~concat~ -- monadisk oppførsel for lister!
+** Python
+Introduksjonskurs i Python med Alexander Perry for lærere og kolleger.
+[[https://teodorlu.github.io/python-intro/][Materellet er åpent tilgjengelig]].
+** ComputerCraft
+ComputerCraft lar deg programmere dine egne objekter i Minecraft. Du får nye
+blokker du kan bruke, deriblant nettopp en /Computer/.
 
-- Lærerkonferanse
+Jeg liker særlig tilnærmingen: Datamaskinen i ComputerCraft har sitt eget
+operativsystem. Operativsystemet kan du se kildekoden til. Du skriver programmer
+som kjører på operativsystemet, på samme måte som programmering til vanlig.
+Lærer man hvordan ComputerCraft henger sammen, kan man altså bruke dette direkte
+til å forstå datamaskiner!
+
+Jeg har laget to oppgaver til kurs:
+
+- [[http://oppgaver.kidsakoder.no/computercraft/nettverk_send_beskjed/nettverk_send_beskjed.html][Send en beskjed]] viser hvordan vi kan bruke nettverket i ComputerCraft til å
+  sende beskjeder fra en datamaskin til en annen. Nettverket fungerer litt som
+  Internett.
+- [[http://oppgaver.kidsakoder.no/computercraft/fjernstyr_en_robot/fjernstyr_en_robot.html][Fjernstyr en robot]] bruker nettverk til å lage en datamaskin som fungerer som
+  fjernkontroll for en robot som mottar signaler.
