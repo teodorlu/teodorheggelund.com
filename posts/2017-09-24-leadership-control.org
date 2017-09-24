@@ -73,13 +73,13 @@ fordi de ikke klarer å gi slipp på ansvaret.
 ** Ledelse -- tjenestebasert eller styrende?
 Hvilken fordeling av kunnskap ligger til grunn for ledelsen?
 
-1. Ledelse under forutsetning om at hva jeg vet er alt som er relevant
+1. Ledelse under forutsetning om at én person har oversikt
    - Hierarki-basert
-2. Ledelse under forutsetning om at jeg ikke vet alt
+2. Ledelse under forutsetning om at ingen enkeltentiteter vet nok
    - Nettverk-basert
 
 Virkeligheten er grå. Det er aldri noen som vet alt. Så hvordan finner man en
-middelvei? Vi kan tilføre verdi på forskjellige måter:
+middelvei? Vi kan tilføre verdi gjennom lederskap på forskjellige måter:
 
 - *Ledelse i tjeneste*. Du kan spørre meg om dette når du har behov. Jeg
   kommer med min mening. Du tolker denne; og prøver å gjøre som best du kan
@@ -115,7 +115,7 @@ Hvilken type ledelse som er optimal er ekstremt avhengig av typen problem. Hva
 er kostnaden av en feil på et sykehus? Hva er kostnaden av smal tankegang
 grunnet kortsynt ledelse? Dette er prinsipper jeg tar i bruk når jeg lurer på
 hvor jeg bør legge meg.
-** Kompleksiteten i verden stiger raskt
+** Referanse: Utvikling i militærorganisasjoner for håndtering av mer komplekse problemer
 Gjennom massemedia og informasjonsteknologi har vår evne til å prosessere og
 kommunisere kompleks data gått i taket. Bedre verktøy har latt oss løse helt
 andre klasser problemer enn tidligere. Samtidig eksploderer graden av
@@ -124,8 +124,9 @@ kompleksitet -- siden det er mer lønnsomt å lage komplese systemer enn før.
 Økt kompleksitet gjør hierarkisk ledelse mindre egnet enn før, og vi bør
 revurdere fordelingen av kontroll.
 
-Luftkamp er et annet kaotisk domene. [[https://www.goodreads.com/book/show/4402576-power-to-the-edge][Power to the Edge av Richard E. Hayes og
-David S. Alberts]] starter i luftkamp; hvilke lekser som er lært der; og går
-videre til å vurdere kontrollorganer i militære organisasjoner. Jeg anbefaler
-boka til en leser med mer interesse for temaet om hvor mye kontroll som bør
-utøves i lederskap.
+[[https://www.goodreads.com/book/show/4402576-power-to-the-edge][Power to the Edge av Richard E. Hayes og David S. Alberts]] setter
+informasjonsutveksling i militære organisasjoner i system. Informasjonsmengde i
+krigføring har eksplodert de siste hundre årene, og militæret fra 1700-tallets
+Preussen er ikke lenger anvendbart for dagens utfordringer. Han skisserer så
+endringer som gjør organisasjonene bedre egnet til å håndtere informasjonen, og
+beskriver hvordan den type endringer har blitt gjort i forskjellige stater.
