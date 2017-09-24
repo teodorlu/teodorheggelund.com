@@ -115,3 +115,17 @@ Hvilken type ledelse som er optimal er ekstremt avhengig av typen problem. Hva
 er kostnaden av en feil på et sykehus? Hva er kostnaden av smal tankegang
 grunnet kortsynt ledelse? Dette er prinsipper jeg tar i bruk når jeg lurer på
 hvor jeg bør legge meg.
+** Kompleksiteten i verden stiger raskt
+Gjennom massemedia og informasjonsteknologi har vår evne til å prosessere og
+kommunisere kompleks data gått i taket. Bedre verktøy har latt oss løse helt
+andre klasser problemer enn tidligere. Samtidig eksploderer graden av
+kompleksitet -- siden det er mer lønnsomt å lage komplese systemer enn før.
+
+Økt kompleksitet gjør hierarkisk ledelse mindre egnet enn før, og vi bør
+revurdere fordelingen av kontroll.
+
+Luftkamp er et annet kaotisk domene. [[https://www.goodreads.com/book/show/4402576-power-to-the-edge][Power to the Edge av Richard E. Hayes og
+David S. Alberts]] starter i luftkamp; hvilke lekser som er lært der; og går
+videre til å vurdere kontrollorganer i militære organisasjoner. Jeg anbefaler
+boka til en leser med mer interesse for temaet om hvor mye kontroll som bør
+utøves i lederskap.
