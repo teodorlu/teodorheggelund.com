@@ -2,7 +2,8 @@
 title: Åpne prosjekter
 ---
 
-Dette er en oversikt over ting jeg har laget og lagt åpent tilgjengelig på nett.
+Dette er en oversikt over ressurser jeg har laget som ligger åpent tilgjengelig
+på nett.
 
 Mye er relatert til [[https://kidsakoder.no/kodeklubb/oslo/][Kodeklubben Oslo]]. Kodeklubben Oslo er et gratis tilbud for
 barn og unge som vil lære programmering. Jeg har planlagt, gjennomført og
