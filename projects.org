@@ -7,7 +7,7 @@ på nett.
 
 Mye er relatert til [[https://kidsakoder.no/kodeklubb/oslo/][Kodeklubben Oslo]]. Kodeklubben Oslo er et gratis tilbud for
 barn og unge som vil lære programmering. Jeg har planlagt, gjennomført og
-veiledet under kurs, samt skrevet oppgaver.
+veiledet kurs, samt skrevet oppgaver.
 ** Elm
 Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
 er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
