@@ -1,6 +1,7 @@
 ---
-title: "Prinsipper for optimal grad av kontroll i lederskap"
+title: "Grad av kontroll i lederskap"
 author: Teodor Heggelund
+date: 2017-09-24
 ---
 
 Stikkord: /ledelse/.

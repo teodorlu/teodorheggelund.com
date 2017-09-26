@@ -1,6 +1,7 @@
 ---
-title: Grad av kaos
+title: Grad av kaos i utvikling
 author: Teodor Heggelund
+date: 2017-09-01
 ---
 
 Stikkord: /entropi/, /prosjektledelse/, /formidling/.
