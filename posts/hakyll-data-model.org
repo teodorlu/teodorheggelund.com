@@ -1,0 +1,230 @@
+---
+title: "Hakyll's data model"
+author: Teodor Heggelund
+date: 2017-09-25
+---
+
+Hakyll is a web site compiler library. Hakyll takes documents written in formats
+that are neat to write in, and produces a normal HTML site. This web site is
+made with Hakyll. In order to understand software projects, I tend to reach for
+the data model. How is the information modeled? What about relations?
+Cardinality? This post is my attempt at diving into how Hakyll is made. Bonus
+points if I can learn some functional programming architecture as well.
+** Source tree overview
+Let's start by grabbing the source and looking at what we find.
+
+#+BEGIN_SRC
+$ cd ~/git
+$ git clone https://github.com/jaspervdj/hakyll
+$ cd hakyll
+$ tree -L 2
+.
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── data
+│   ├── example
+│   └── templates
+├── hakyll.cabal
+├── lib
+│   ├── Data
+│   ├── Hakyll
+│   └── Hakyll.hs
+├── LICENSE
+├── logo.svg
+├── Makefile
+├── README.markdown
+├── Setup.hs
+├── src
+│   └── Init.hs
+├── stack.yaml
+├── tests
+│   ├── data
+│   ├── Hakyll
+│   ├── TestSuite
+│   └── TestSuite.hs
+└── web
+    ├── about.markdown
+    ├── css
+    ├── examples.markdown
+    ├── images
+    ├── index.markdown
+    ├── libraries.markdown
+    ├── reference.markdown
+    ├── site.hs
+    ├── templates
+    └── tutorials
+#+END_SRC
+
+Interesting folders:
+
+- ~data/example~ :: A sample Hakyll blog
+- ~lib~ :: The source code for Hakyll itself
+- ~tests~ :: Unit tests for Hakyll
+- ~web~ :: Contains source for generating the Hakyll web site (with Hakyll!)
+
+The ~web~ directory may very well come in handy, especially of this project of
+reading code!
+
+For now, let's focus on ~lib~.
+
+#+BEGIN_SRC 
+$ cd lib
+$ tree
+.
+├── Data
+│   ├── List
+│   │   └── Extended.hs
+│   └── Yaml
+│       └── Extended.hs
+├── Hakyll
+│   ├── Check.hs
+│   ├── Commands.hs
+│   ├── Core
+│   │   ├── Compiler
+│   │   │   ├── Internal.hs
+│   │   │   └── Require.hs
+│   │   ├── Compiler.hs
+│   │   ├── Configuration.hs
+│   │   ├── Dependencies.hs
+│   │   ├── File.hs
+│   │   ├── Identifier
+│   │   │   └── Pattern.hs
+│   │   ├── Identifier.hs
+│   │   ├── Item
+│   │   │   └── SomeItem.hs
+│   │   ├── Item.hs
+│   │   ├── Logger.hs
+│   │   ├── Metadata.hs
+│   │   ├── Provider
+│   │   │   ├── Internal.hs
+│   │   │   ├── MetadataCache.hs
+│   │   │   └── Metadata.hs
+│   │   ├── Provider.hs
+│   │   ├── Routes.hs
+│   │   ├── Rules
+│   │   │   └── Internal.hs
+│   │   ├── Rules.hs
+│   │   ├── Runtime.hs
+│   │   ├── Store.hs
+│   │   ├── UnixFilter.hs
+│   │   ├── Util
+│   │   │   ├── File.hs
+│   │   │   ├── Parser.hs
+│   │   │   └── String.hs
+│   │   └── Writable.hs
+│   ├── Main.hs
+│   ├── Preview
+│   │   ├── Poll.hs
+│   │   └── Server.hs
+│   └── Web
+│       ├── CompressCss.hs
+│       ├── Feed.hs
+│       ├── Html
+│       │   └── RelativizeUrls.hs
+│       ├── Html.hs
+│       ├── Paginate.hs
+│       ├── Pandoc
+│       │   ├── Biblio.hs
+│       │   ├── Binary.hs
+│       │   └── FileType.hs
+│       ├── Pandoc.hs
+│       ├── Redirect.hs
+│       ├── Tags.hs
+│       ├── Template
+│       │   ├── Context.hs
+│       │   ├── Internal
+│       │   │   ├── Element.hs
+│       │   │   └── Trim.hs
+│       │   ├── Internal.hs
+│       │   └── List.hs
+│       └── Template.hs
+└── Hakyll.hs
+#+END_SRC
+
+That's a lot. Back to our mission -- what was it that we wanted to do? Figure
+out Hakyll's /data model/. So we're not all that interested in all the
+implementation details. Now, the data model for what? We'll make ourselves an
+example task.
+** Allowing posts to reside in their own directory
+I prefer links like ~/projects/~ over ~/projects.html~. That would mean we would
+have to match sub folders as well as primary folders. My current posts rule
+looks like this:
+
+#+BEGIN_SRC haskell
+    match "posts/*" $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= relativizeUrls
+#+END_SRC
+
+... and it doesn't hit things like ~posts/hakyll-data-model/index.org~. Let's
+try another variant -- a Unix glob.
+
+#+BEGIN_SRC haskell
+    match "posts/**/index.org" $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= relativizeUrls
+#+END_SRC
+
+It worked! Sweet. But there's a bug; it doesn't show up under the posts list.
+
+This is the posts listing:
+
+#+BEGIN_SRC haskell
+    match "index.html" $ do
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll "posts/*" -- Another glob!
+            let indexCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Teodor Heggelund"    `mappend`
+                    defaultContext
+
+            getResourceBody
+                >>= applyAsTemplate indexCtx
+                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= relativizeUrls
+#+END_SRC
+
+There's a glob in there! What's a glob?
+** Unix Globs
+** 
+Let's change ~loadAll "posts/*"~ to ~loadAll "posts/**/index.org~.
+
+Cool! Now we match the new format, but not the old one. We want both. We'll
+guess that ~posts~ is something we can add together. Like a list or a number.
+A ~Monoid~ satisfies this, and we want the ~mappend~ function:
+
+#+BEGIN_SRC haskell
+mappend :: a -> a -> a
+#+END_SRC
+
+Take to somethings and give a new something. Take to post listings, and return a
+new post listing. In order to have both style posts seamlessly integrate, we
+need to apply ~recentFirst~ on a collection of /both/ style posts.
+
+#+BEGIN_SRC haskell
+    match "index.html" $ do
+        route idRoute
+        compile $ do
+          oldPosts <- loadAll "posts/*"
+          newPosts <- loadAll "posts/**/index.org"
+          posts <- recentFirst (oldPosts `mappend` newPosts)
+          let
+            indexCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Teodor Heggelund"    `mappend`
+                    defaultContext
+
+          getResourceBody
+                >>= applyAsTemplate indexCtx
+                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= relativizeUrls
+#+END_SRC
+
+... and now we've solved our dummy problem.
