@@ -4,7 +4,7 @@ author: Teodor Heggelund
 date: 2017-09-01
 ---
 
-Stikkord: /entropi/, /prosjektledelse/, /formidling/.
+Stikkord: /entropi/, /prosjektledelse/, /formidling/, /kaos/.
 
 Konteksten vår er alltid til en viss grad kaotisk eller ryddig. Hva skjer da med
 tingene rundt oss? Går de mot orden eller mot kaos? Ofte avhengig av person og
