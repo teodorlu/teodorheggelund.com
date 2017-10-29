@@ -38,7 +38,7 @@ rolle om ikke andre kan forholde seg til hva han har laget på en god måte.
 
 I systemer med stor, god tradisjon ligger det mye taus kunnskap. Denne tause
 kunnskapen har en verdi! Den er ikke noe som skal forkastes uten å vurdere hva
-vi vinner mot hva vi taper. Verdien av tradisjon mot verdien av nyskapning
+vi vinner mot hva vi taper. Verdien av tradisjon mot verdien av nyskaping
 varierer mellom systemer. I en nyoppstartet bedrift finnes det derimot kanskje
 ikke en etablert standard i det hele tatt.
 * Systemutviklere som kaosbekjempere og verktøybyggere
