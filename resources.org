@@ -70,3 +70,4 @@ This is an unordered, opinionated list of useful things on the Internet.
   original Agile Manifesto.
 - [[http://www.howardabrams.com/][Howard Abrams]] has demonstrated [[http://www.howardism.org/Technical/Emacs/literate-devops.html][literate DevOps]] with Org-mode, and is heavily
   Emacs-driven.
+- [[http://www.imagination-land.org/][Marc-Antoine Perennou]] has made [[http://www.imagination-land.org/posts/2012-11-22-knowing-your-system-part-basics-on-unixlike-systems.html][a series of blog posts covering Unix basics]].
