@@ -1,0 +1,28 @@
+---
+title: Commentary on Ray Dalio's Principles
+author: Teodor Heggelund
+date: 2017-10-29
+---
+
+Keywords: /filosofi/, /prinsipper/.
+
+I am thoroughly impressed with Ray Dalio's [[https://www.principles.com][/Principles/]]. /Principles/ is a
+description of a philosophy of life founded on principles. Dalio searches
+actively in his own experience, out of which he attempts to produce principles
+for how to act.
+
+A central theme in the book is the process surrounding the principles:
+
+- How does one make decisions based on principles?
+- How to change a principle that produces bad results?
+- How can one develop new principles?
+
+I believe his approach can be useful for people with a principled mindset --
+including me. This text is my attempt at making the principles my own. How to
+these principles apply to me? How do I judge them? Do I have specific examples
+or experiences, that can help ground the principles and give them context?
+
+The principles are formulated in three levels. Level one principles are broad
+and general, and may contain level two and level three principles, which are
+more specific. This text retains the hierarchical structure of the principles,
+with my commentary.
