@@ -65,13 +65,12 @@ Kanskje lager vi dette som en chatbot. Kanskje lager vi et grafisk grensesnitt
 som er tilgjengelig for flere.
 * La oss bekjempe kaos ved å bygge verktøy for å lage nivåer av stabilitet!
 Jeg har postulert at kaos og orden er motpoler der vi trenger begge, og at
-systemutviklerens posisjon er på frontlinjen mot kaoset. Her kan vi bruke vår
-rolle som verktøybyggere! Vi trenger ikke stå på frontlinjen alene. Vi kan i
-stedet lage våpnene for å bekjempe kaoset! Kaoset kan beseires ved å kapsle det
-inn i nivåer av stabilitet. Vi må derfor lage verktøy for å lage nivåer av
-stabilitet!
+systemutviklerens posisjon er på frontlinjen mot kaoset. Vi trenger imidlertid
+ikke bære ansvaret alene -- når vi kan legge til rette for at andre kan bidra.
+Hvis vi ikke bare bygger nivåer av stabilitet, men også legger til rette for at
+andre kan lage stabil kunnskap -- da har vi kommet en lang vei.
 
-Hva betyr dette konkret? Vi bør tilrettelegge for nivåer av stabilitet!
+Noen konkrete forslag:
 
 - /Informasjonsflyt/ kan vi ivareta ved å bruke egnede verktøy, som [[https://basecamp.com][Basecamp]].
 - /Dokumentasjon/ må være lett å finne, lett å lese, lett å skrive og lett å
