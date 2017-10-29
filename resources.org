@@ -1,0 +1,71 @@
+---
+title: References
+---
+
+This is an unordered list of useful things on the Internet.
+
+** Learning resources
+- [[https://learnxinyminutes.com][Learn X in Y minutes]] is a high-quality, high-density introduction to a variety
+  of technical topics with emphasis on demonstration.
+- Stephen Diehl's [[http://dev.stephendiehl.com/hask/][/What I Wish I Knew When Learning Haskell/]] is a high-quality
+  introduction to Haskell. Diehl has other well-written resources on his main
+  [[http://www.stephendiehl.com/][web site]].
+- [[http://programming-motherfucker.com/become.html][Become a Programmer, Motherfucker]] is a series of books for learning software
+  engineering focused on practice. Some books are freely available on the web,
+  others are paid.
+- The [[http://www.pathname.com/fhs/][Filesystem Hierarchy Standard]] describes where things should be on Unix
+  systems.
+- [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]] is a seminal MIT book on
+  computer science by means of Scheme.
+** Principles and ideas
+- [[http://www.dougengelbart.org/firsts/dougs-1968-demo.html][Doug Engelbart's 1968 Mother Of All Demos]] is an interactive walk-through of a
+  wealth of technological innovations. Some of which, we still don't have access
+  to fifty years later! 
+- [[http://worrydream.com][Bret Victor]]'s work towards /giving content creators an immediate connection to
+  what they're creating/.
+** Technical tools
+- [[http://errbot.io/en/latest/#][Errbot]] is a framework for writing bots that can connect to chats like Campfire
+  and Slack. Found through writings by [[http://tom.preston-werner.com][Tom Preston-Werner]].
+** Uncategorized
+- [[http://paulgraham.com][Paul Graham]] has many interesting opinions on startups, lisp and life in
+  general.
+- [[https://waitbutwhy.com/][Wait but why]] presents topics in-depth in the format of a blog.
+- [[https://www.jwz.org/about.html][Jamie Zawinski]] was a principal part of the team that made Mozilla.
+- [[http://www.catb.org/esr/][Eric S. Raymond]] has made central contributions to Unix and the Internet, and
+  provides a wealth of on-line resources. Topics include Unix culture and how to
+  build a hacker mentality.
+- [[http://norvig.com/21-days.html][Peter Norvig]] is director of research at Google, and has written [[http://aima.cs.berkeley.edu/][the textbook
+  on AI]].
+- [[https://harishnarayanan.org/][Harish Narayanan]] has made a serious attempt to [[http://mechanicsacademy.org/][revolutionize the education of
+  computational mechanics]] by means of computation.
+- [[http://emacsrocks.com/][Emacs rocks]] is a series of high-quality Emacs screencasts demonstrating using
+  Emacs to solve a particular problem.
+- [[http://tomasp.net/][Thomas Petricek]] has made a tool for [[https://thegamma.net/][interactive data visualization on the web]],
+  and made good arguments that we should step [[http://tomasp.net/blog/2015/library-frameworks/][away from frameworks]], towards
+  [[http://tomasp.net/blog/2015/library-layers/][functional, scalable libraries]].
+- [[http://wiki.c2.com/][WikiWikiWeb]] discusses a range of topics, mostly related to programming.
+- [[http://www.cse.chalmers.se/~rjmh/Combinators/][Designing and Using Combinators: The Essence of Functional Programming]] is a
+  course by John Hughes, one of the "founders" of Haskell.
+- [[http://www.seas.upenn.edu/~cis194/spring13/lectures.html][CIS 194: Introduction to Haskell]] is a course taught at the University of
+  Pennsylvania, where the course material is published to the web.
+- [[https://www.joelonsoftware.com/][Joel On Software]] is a blog on software development and management by Joel
+  Spolsky, who created [[https://trello.com/][Trello]] and co-created [[https://stackoverflow.com/][Stack Overflow]]. He usually has
+  calibrated, practical opinions.
+- [[http://danluu.com/][Dan Luu]] writes well about highly technical topics.
+- [[https://www.blaenkdenum.com/][Jorge Israel Peña]] has written a solid [[https://www.blaenkdenum.com/notes/clojure/][guide on Clojure]], and even [[https://www.blaenkdenum.com/reads/#wok][reads]]
+  [[https://www.blaenkdenum.com/reads/#wor][Sanderson]]! Peña also uses [[https://jaspervdj.be/hakyll/][Hakyll]] for [[https://github.com/blaenk/blaenk.github.io][his quite beautiful website]].
+- [[http://funcool.github.io/clojurescript-unraveled/][Clojurescript Unraveled]] is a solid from-scratch introduction to Clojurescript.
+- [[https://www.ybrikman.com/][Yevgeniy Brikman]] has compiled a list of fantastic [[https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/][tech talks for programmers]]
+  and made a good [[https://www.hello-startup.net/][introduction to start-ups for programmers]].
+- [[http://www.flyingmachinestudios.com/][Daniel Higginbotham]] has written [[https://www.braveclojure.com/][Clojure for the Brave and True]] and an
+  [[http://www.visualmess.com/][introduction to visual design]].
+- [[http://overthewire.org/wargames/][Over the Wire]] is a set of hacking-related challenges. You are given SSH
+  credentials to log in (somewhere). Reading the task there, you try to find the
+  credentials for the next level!
+- [[http://jeffe.cs.illinois.edu/teaching/algorithms/][Algorithms]] is a free on-line textbook by Jeff Erickson.
+- [[https://skillsmatter.com/skillscasts/9098-haskell-in-the-large-the-day-to-day-practice-of-using-haskell-to-write-large-systems][Haskell in the Large]] is a talk on Haskell from a practical systems engineering
+  perspective.
+- [[https://martinfowler.com/][Martin Fowler]] has written a book on [[https://martinfowler.com/books/dsl.html][Domain Specific Languages]] and signed the
+  original Agile Manifesto.
+- [[http://www.howardabrams.com/][Howard Abrams]] has demonstrated [[http://www.howardism.org/Technical/Emacs/literate-devops.html][literate DevOps]] with Org-mode, and is heavily
+  Emacs-driven.
