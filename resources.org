@@ -2,12 +2,12 @@
 title: References
 ---
 
-This is an unordered list of useful things on the Internet.
+This is an unordered, opinionated list of useful things on the Internet.
 
 ** Learning resources
 - [[https://learnxinyminutes.com][Learn X in Y minutes]] is a high-quality, high-density introduction to a variety
   of technical topics with emphasis on demonstration.
-- Stephen Diehl's [[http://dev.stephendiehl.com/hask/][/What I Wish I Knew When Learning Haskell/]] is a high-quality
+- Stephen Diehl's [[http://dev.stephendiehl.com/hask/][What I Wish I Knew When Learning Haskell]] is a high-quality
   introduction to Haskell. Diehl has other well-written resources on his main
   [[http://www.stephendiehl.com/][web site]].
 - [[http://programming-motherfucker.com/become.html][Become a Programmer, Motherfucker]] is a series of books for learning software
@@ -37,12 +37,13 @@ This is an unordered list of useful things on the Internet.
 - [[http://norvig.com/21-days.html][Peter Norvig]] is director of research at Google, and has written [[http://aima.cs.berkeley.edu/][the textbook
   on AI]].
 - [[https://harishnarayanan.org/][Harish Narayanan]] has made a serious attempt to [[http://mechanicsacademy.org/][revolutionize the education of
-  computational mechanics]] by means of computation.
+  computational mechanics]] by visualizing with programming instead of relying on
+  analysis of equations.
 - [[http://emacsrocks.com/][Emacs rocks]] is a series of high-quality Emacs screencasts demonstrating using
   Emacs to solve a particular problem.
 - [[http://tomasp.net/][Thomas Petricek]] has made a tool for [[https://thegamma.net/][interactive data visualization on the web]],
-  and made good arguments that we should step [[http://tomasp.net/blog/2015/library-frameworks/][away from frameworks]], towards
-  [[http://tomasp.net/blog/2015/library-layers/][functional, scalable libraries]].
+  and presents good arguments why we should step [[http://tomasp.net/blog/2015/library-frameworks/][away from frameworks]], and
+  towards [[http://tomasp.net/blog/2015/library-layers/][functional, scalable libraries]].
 - [[http://wiki.c2.com/][WikiWikiWeb]] discusses a range of topics, mostly related to programming.
 - [[http://www.cse.chalmers.se/~rjmh/Combinators/][Designing and Using Combinators: The Essence of Functional Programming]] is a
   course by John Hughes, one of the "founders" of Haskell.
