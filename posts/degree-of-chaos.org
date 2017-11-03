@@ -30,7 +30,9 @@ Noen programmeringsspråk påtvinger innsats for å holde orden. Disse er ofte
 statisk typede:
 
 - *Haskell* krever at vi holde typene våre i orden. Grensesnitt må defineres og
-  være klare, slik at de kan typesjekker.
+  være klare, slik at de kan typesjekke. Typene kan igjen brukes av den som skal
+  /lære/ å bruke grensesnittet: vedkommende får tydelig tilbakemeldinger på hva
+  som er lov og hva som ikke er lov.
 - *Java* krever at vi organiserer koden vår i /klasser/. Klassifisering for
   orden! Dette fungerer meget bra når klassifisering er hva vi trenger. For
   andre abstraksjoner kan det bli vanskelig. Klasser er i tillegg en mer rigid
