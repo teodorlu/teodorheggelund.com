@@ -12,7 +12,7 @@ situasjon. Noen er ryddige, andre er rotete. Noen ganger skal vi legge
 fundamentet for et langvarig programvareprosjekt, og andre ganger skal vi skrive
 en snutt for å løse en enkeltoppgave.
 
-Vi velger oss alle sammen en grad av kaos å arbeide i. Journalisten med all
+Vi velger oss alltid en grad av kaos å arbeide i. Journalisten med all
 informasjonen han jobber med spredd over hele pulten. Professoren med stabel på
 stabel av åpne bøker. Prosjektlederen med det strøkne skrivebordet, og alt satt
 i rett perm. Jeg mener ikke det finnes en ideell grad av kaos -- selv om vi
@@ -20,7 +20,7 @@ skulle ønske oss det. Er det ikke lett å ønske at vi hadde "litt mer struktur
 på det vi driver med? Struktur kommer med en kostnad. Det er vanskeligere å
 tenke på ting som ikke passer inn i strukturen. Når andre skal kunne forstå hva
 vi jobber med er imidlertid struktur alfa omega. Struktur kapper informasjonen i
-nyttig og unyttig, og det er lettere å noe når nyttig er klart og tydelig
+nyttig og unyttig, og det er lettere lære å noe når nyttig er klart og tydelig
 adskilt fra unyttig. Hva om streken er tegnet litt feil; om vi ved et uhell har
 plassert nyttige og unyttige ting i feil bunke? Spiller liten rolle; rekkefølgen
 av ting lært blir kun litt forskjellig.
