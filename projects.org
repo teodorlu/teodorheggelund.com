@@ -8,6 +8,30 @@ på nett.
 Mye er relatert til [[https://kidsakoder.no/kodeklubb/oslo/][Kodeklubben Oslo]]. Kodeklubben Oslo er et gratis tilbud for
 barn og unge som vil lære programmering. Jeg har planlagt, gjennomført og
 veiledet kurs, samt skrevet oppgaver.
+** Beregningsmekanikk
+Masteroppgaven min handlet om hvordan materialer oppfører seg på liten skala,
+titulert "Finite element implementation of lower-order strain gradient
+plasticity in Abaqus".
+
+Når vi regner på hvordan konstruksjoner oppfører seg ved påføring av krefter,
+kan vi velge oss enkle modeller eller kompliserte modeller. Kriterier som
+påvirker valget er effekten av brudd, og hvor komplisert konstruksjonen i seg
+selv er. Enkle modeller er lette å forstå, kompliserte modeller har potensial
+til å predikere oppførsel mer nøyaktig.
+
+1. Newtons lover sier at en belastning må mobilisere en like stor
+   reaksjonskraft.
+2. Elastisk teori gir at dersom vi dobler kraften, vil vi doble deformasjonen.
+   Hvor stor deformasjonen er avhenger av stivheten i materialet.
+3. Plastisk teori tar hensyn til at det kan finnes en grense for hvor mye
+   krefter en konstruksjon kan tåle. Dobler du kraften du bruker til å dytte på
+   et tre, kan det hende at forskyvningen /mer enn/ dobler seg.
+4. Gradientplastisk teori ser i tillegg på skalaeffekter. Dersom du påfører en
+   svært høy last på et svært lite punkt, sier gradientplastisk teori at
+   materialet skal oppføre seg stivere enn predikert av plastisk teori.
+
+I masteroppgaven min utforsker jeg hvordan vi kan lage modeller som tar hensyn
+til gradientplastisk teori. [[./static/heggelund15.pdf][Teksten er tilgjengelig på engelsk]].
 ** Elm
 Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
 er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
@@ -39,7 +63,7 @@ erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje 
 - [[http://oppgaver.kidsakoder.no/elm/09_egen_kode/09_egen_kode.html][Skrive egen kode]] (av Erik Aasmundrud) går tilbake til start, og gir
   mengdetrenging i å lage funksjoner.
 - I [[http://oppgaver.kidsakoder.no/elm/10_fraktaler/10_fraktaler.html][Fraktaler]] definerer vi hva en fraktal er, og lærer å tegne våre egne. For å
-  få til det, må vi innføre ~map~ og ~concat~ -- monadisk oppførsel for lister!
+  få til det, må vi innføre ~map~ og ~concat~ -- monadisk oppførsel for lister
 ** Python
 Introduksjonskurs i Python med Alexander Perry for lærere og kolleger.
 [[https://teodorlu.github.io/python-intro/][Materellet er åpent tilgjengelig]].
