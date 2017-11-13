@@ -34,7 +34,8 @@ I masteroppgaven min utforsker jeg hvordan vi kan lage modeller som tar hensyn
 til gradientplastisk teori. [[./static/heggelund15.pdf][Teksten er tilgjengelig på engelsk]].
 ** Elm
 Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
-er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker et 10 kvelder á 1.5 timer.
+er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker 10 kurskvelder, der hver varer i
+halvannen time.
 
 Typisk materiell for å lære seg Elm på nett er for personer som allerede er
 utviklere. Opplegget på Elm-kurset måtte være mer tilgjengelig; tidligere
