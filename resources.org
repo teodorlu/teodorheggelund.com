@@ -2,7 +2,8 @@
 title: References
 ---
 
-This is an unordered, opinionated list of useful things on the Internet.
+This is an unordered, opinionated list of useful things on the Internet. Things
+I find valuable, things I don't want to get lost. Things I want to read again.
 
 ** Learning resources
 - [[https://learnxinyminutes.com][Learn X in Y minutes]] is a high-quality, high-density introduction to a variety
