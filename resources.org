@@ -57,7 +57,8 @@ This is an unordered, opinionated list of useful things on the Internet.
   [[https://www.blaenkdenum.com/reads/#wor][Sanderson]]! Peña also uses [[https://jaspervdj.be/hakyll/][Hakyll]] for [[https://github.com/blaenk/blaenk.github.io][his quite beautiful website]].
 - [[http://funcool.github.io/clojurescript-unraveled/][Clojurescript Unraveled]] is a solid from-scratch introduction to Clojurescript.
 - [[https://www.ybrikman.com/][Yevgeniy Brikman]] has compiled a list of fantastic [[https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/][tech talks for programmers]]
-  and made a good [[https://www.hello-startup.net/][introduction to start-ups for programmers]].
+  and made a good [[https://www.hello-startup.net/][introduction to start-ups for programmers]]. He has also written a
+  quality guide on [[https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/][how to write good documentation]].
 - [[http://www.flyingmachinestudios.com/][Daniel Higginbotham]] has written [[https://www.braveclojure.com/][Clojure for the Brave and True]] and an
   [[http://www.visualmess.com/][introduction to visual design]].
 - [[http://overthewire.org/wargames/][Over the Wire]] is a set of hacking-related challenges. You are given SSH
