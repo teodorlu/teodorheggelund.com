@@ -10,11 +10,11 @@ Jeg prøver å samle sammen noen folk jeg liker til middag.
 | *Sted* | Sentralt i Oslo                |
 
 Gi beskjed om du kan så snart du vet, da blir det lettere for meg å få på plass
-en reservasjon.
+en reservasjon og bestemme sted.
 
 - "/Kan jeg ta med følge?/" Jepp! Invitasjonen er til dere begge.
 - "/Antrekk?/" Jeg kjører skjorte og jakke, du bestemmer selv.
-- "/Når blir sted satt?/" Lørdag 9. desember.
+- "/Når blir sted satt?/" Jeg oppdaterer denne siden innen lørdag 9. desember.
 - "/Jeg er sted X langt unna!/" Jepp, inviterer noen jeg vet sannsynligvis ikke
   kan komme. Ta det som at jeg gjerne skulle hatt deg her!
 
@@ -32,6 +32,9 @@ Håper du har anledning til å komme!
 # Tor,
 # Perry,
 # Arne Bakkemoen,
-# Arne Meuche.
+# Arne Meuche,
+# Arne lindefjeld
+# Susanne,
+# Geir Arne
 
 Teodor
