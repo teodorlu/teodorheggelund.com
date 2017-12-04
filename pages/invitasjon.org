@@ -1,22 +1,23 @@
 ---
-title: Samkvem, mat og drikke
+title: Samkvem og drikke
 ---
 
 Hei!
 
-Jeg prøver å samle sammen noen folk jeg liker til middag. 
+Jeg prøver å samle sammen noen folk jeg liker til prat -- og drikke for de som
+ønsker.
 
-| *Tid*  | Mandag 11. desember, klokken 6 |
-| *Sted* | Sentralt i Oslo                |
+| *Tid*  | Mandag 11. desember, klokken 7 |
+| *Sted* | [[https://goo.gl/maps/vTkTQQ94QuP2][Oslo Mekaniske Verksted]]        |
 
-Gi beskjed om du kan så snart du vet, da blir det lettere for meg å få på plass
-en reservasjon og bestemme sted.
+Gi beskjed om du kan så snart du vet! Da har vi sjans til å få et passe stort
+bord.
 
-- "/Kan jeg ta med følge?/" Jepp! Invitasjonen er til dere begge.
-- "/Antrekk?/" Jeg kjører skjorte og jakke, du bestemmer selv.
-- "/Når blir sted satt?/" Jeg oppdaterer denne siden innen lørdag 9. desember.
+- "/Kan jeg ta med følge?/" Jepp!
 - "/Jeg er sted X langt unna!/" Jepp, inviterer noen jeg vet sannsynligvis ikke
   kan komme. Ta det som at jeg gjerne skulle hatt deg her!
+- "/Hva med mat?/" Oslo Mek. serverer ikke mat, men åpner for bestilling av
+  take-away som kan nytes inne i lokalene.
 
 Håper du har anledning til å komme!
 
@@ -33,8 +34,9 @@ Håper du har anledning til å komme!
 # Perry,
 # Arne Bakkemoen,
 # Arne Meuche,
-# Arne lindefjeld
+# Arne Lindefjeld
 # Susanne,
-# Geir Arne
+# Geir Arne,
+# Kevin
 
 Teodor
