@@ -24,23 +24,23 @@ Håper du har anledning til å komme!
 # Invitert:
 # 
 # Tjerand,
-# Erik Aasmundrud,
 # Erik Rybakken,
-# Frans,
-# Remi,
 # Ermin,
-# Tor,
 # Perry,
 # Arne Bakkemoen,
 # Arne Meuche,
 # Arne Lindefjeld,
 # Kevin
 
-# Kommer (totalt 4):
+# Kommer:
 # Ulrik,
 # Susanne,
 # Geir Arne,
 # Lisa
+# Erik Aasmundrud,
+# Frans,
+# Remi,
+# Tor,
 
 # Kan ikke:
 
