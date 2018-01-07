@@ -6,12 +6,115 @@ date: 2018-01-05
 
 Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
 
-Approaching theory from a dogma is fundamentally different from approaching it
-as a non-total tool of potential value.
+# Approaching theory from a dogma is fundamentally different from approaching it
+# as a non-total tool of potential value.
 
-Theory-as-dogma restrains conception to what may be expressed within the system
-around the theory. Theory-as-tool does not claim to be total, and keeps a proper
-relationship to the transcendent.
+# Theory-as-dogma restrains conception to what may be expressed within the system
+# around the theory. Theory-as-tool does not claim to be total, and keeps a proper
+# relationship to the transcendent.
 
-# Sidenote: Read up on doctrine/dogma/disipline as used in military
-# organizations? What is written about this? Anything I can make use of?
+** Myers-Briggs Type Indicators (MBTI)
+Theory on Myers-Briggs Type Indicators assert that individuals have preferred
+mental tools, and that these change between individuals. A personality profile
+is described along four axes:
+
+- Extroversion (E) or introversion (I);
+- Sensing (S) or intuition (N);
+- Thinking (T) or feeling (F); and the last,
+- Judging (J) or perceiving (P).
+
+A person who is relaxed around people (E); prefers near, well-defined details
+(S); trusts in her feelings (F); and takes opportunities as they come (P) --
+will be classified as an ESFP. A person who prefers time alone to work things
+out (I); likes to consider big picture effects (N), bases decision making on
+logic (T) and plans far ahead (J) will be classified as an INTJ.
+
+To get classified, one may take the test on [[http://www.16personalities.com][the 16 Personalities website]]. The
+result will be a four letter indicator and a ratio for the position on each
+axis. The 16 Personalities test also gives a fifth axis which I will not focus
+on here.
+
+*MBTI are preferences* ... MBTI describes preferred mental tools; preferred
+mental models. That does not cause inability of mode of operation outside of
+one's preference -- only increased effort to exit the comfort zone.
+
+# TODO: explain percentages and examplify my own. "Really like long term", but
+# "can be opportunistic with planning".
+** On the approximations of MBTI
+Wikipedia lists up both theoretical and empirical criticism of Myers-Briggs
+Type Indicators[fn:wikipedia-mbti-criticism]:
+
+#+BEGIN_QUOTE
+Although popular in the business sector, the MBTI exhibits significant
+psychometric deficiencies, notably including poor validity (i.e. not measuring
+what it purports to measure) and poor reliability (giving different results for
+the same person on different occasions).
+#+END_QUOTE
+
+As a scientific model, MBTI has serious drawbacks.
+
+- Test error: How wrong is the test you take?
+- Model error: How wrong are the four chosen axes? They were just decided by
+  some people in the 20th century.
+- Model error: How wrong is it to assign a pure number to each axis? The
+  model is /by purpose/ designed to measure preference. Preference correlates
+  with skill, but /it is not the same/. Some people have well developed
+  multi-faceted modes of being.
+
+These drawbacks are in my opinion major. As I cannot fully trusting console the
+approximations made with reality, I am left to only be able to take MBTI as a
+non-total approximation. It cannot describe the totality of a personality, and
+it should therefore not be presumed that a MBTI type is sufficient for a good
+understanding of a human being.
+** From dogma to tool
+A classification can be a procrustean bed that limits our perception. I prefer
+thinking of the type indicators as a starting point for understanding a person.
+
+How should we approach personality? Is personality something we may ever totally
+understand? Will we finally have a total understanding of how the human mind
+works? This question has troubled the mind of many a man over the course of
+mankind. We attempt to answer this question in a multitude of fields.
+Neuropsychology attempts to explain how we think with science. The humanities
+use literature to describe the human condition. Religion provides principles for
+how we should act when facing totality.
+
+When we apply scientific rigor, we will only be able to 
+# TODO
+
+We can say very little with scientific confidence.
+# TODO
+
+MBTI is a phenomenological tool. It describes the human experience. Its utility
+should be derived from that. Phenomenology is the study of the human experience
+and consciousness.
+# (That's convenient -- when we're describing humans!)
+# Meta. We're using a framework based on human experience to describe human
+# experience; no need to reduce via science.
+# Have you ever tried to describe your emotions with pure science -- compared to
+# anectodally?
+
+** A tool for expression
+Since MBTI gives an indication of a personality's preferred mode of being, it
+can give aid as to how an argument should be presented in order to effectively
+communicate. For an audience strong on S (sensing), thoughts should be
+concretized as much as possible, and metaphysical arguments avoided. For
+feelers, the impact of the decision on people should be discussed.
+** A tool based on positive utility
+Personal opinion: focusing on the positive utility of a type is useful. Think of
+how and where a given type can be useful. How should one then compose a
+multi-typed team? Who should have what responsibility?
+
+Note: Respect people's need for getting out of their comfort zone and taking on
+new challenges.
+** From type to mode of being
+Reading up on the theory may give the impression that /one/ class is right for a
+person. I beg to differ.
+# Argument: Model error and meta-model error.
+** Different modes of being are preferred in different situations
+** Use your type to improve your weaknesses
+When you don't make an effort, you will fit in your type and follow your
+preference. Go out of your comfort zone and try other modes of being to improve
+on the places where you are weak.
+** References
+[fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to
+criticism-specific section.
