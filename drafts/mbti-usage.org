@@ -6,12 +6,54 @@ date: 2018-01-05
 
 Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
 
+Is there utility in a basic understanding of psychology profiles for someone
+outside of psychology? In the easter of 2017, after having taken a psychology
+profile test at 16personalities.com[fn:16personalities]
+
+I have no background in psychology, but after some
+dabbling in ways to describe personality, 
+
 # Approaching theory from a dogma is fundamentally different from approaching it
 # as a non-total tool of potential value.
 
 # Theory-as-dogma restrains conception to what may be expressed within the system
 # around the theory. Theory-as-tool does not claim to be total, and keeps a proper
 # relationship to the transcendent.
+
+** Commentary                                                     :noexport:
+/This headline is not exported into the final document./
+*** First draft outline
+- Myers-Briggs Type Indicators (MBTI)
+  - Define MBTI
+- On the approximations of MBTI
+  - Discuss limitations of MBTI
+- From dogma to tool
+  - Discuss mode of utility for MBTI
+- A tool for expression
+- A tool based on positive utility
+- From type to mode of being
+- Different modes of being are preferred in different situations
+- Use your type to improve your weaknesses
+- References
+*** On the writing process
+1. Should I bring in more sources? That would be different depending on the
+   degree of scrutiny I want for the essay.
+   - Do I want to communicate something based on the thoughts of others?
+   - Or this a recollection of personal experience, allowing others to live
+     through it and determine if it is valuable to them?
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ** Myers-Briggs Type Indicators (MBTI)
 Theory on Myers-Briggs Type Indicators assert that individuals have preferred
@@ -116,5 +158,6 @@ When you don't make an effort, you will fit in your type and follow your
 preference. Go out of your comfort zone and try other modes of being to improve
 on the places where you are weak.
 ** References
-[fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to
-criticism-specific section.
+[fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
+
+[fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to criticism-specific section.
