@@ -6,19 +6,35 @@ date: 2018-01-05
 
 Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
 
-Is there utility in a basic understanding of psychology profiles for someone
-outside of psychology? In the easter of 2017, after having taken a psychology
-profile test at 16personalities.com[fn:16personalities]
+I want to understand.
 
-I have no background in psychology, but after some
-dabbling in ways to describe personality, 
+Over time, I gradually want to increase the radius of my understanding.
+Classical mechanics is well-defined and coherent. The human condition less so.
+Yet, we can still build an understanding of each other -- if we allow for some
+other tools to enter.
 
-# Approaching theory from a dogma is fundamentally different from approaching it
-# as a non-total tool of potential value.
+Physical models are often deterministic. If a set of preconditions are present,
+the result can be predicted. In practice, this works extremely well. Mechanical
+models used by civil engineers typically have margins of error less than 5 %,
+often negligibly close to zero.
 
-# Theory-as-dogma restrains conception to what may be expressed within the system
-# around the theory. Theory-as-tool does not claim to be total, and keeps a proper
-# relationship to the transcendent.
+Psychological models are a different breed. Current psychological models have
+nowhere near the predictive capability of physical models. As humans are vastly
+more complex than point masses with momentum and angular momentum, we may never
+have a total model of a human being.
+
+/We are not able to enclose the totality of human behavior within a model./
+
+As we are not able to create a /total model/ of humans, we must be sure not to
+interpret the results in a total way. We can never really predict behavior --
+yet we may improve our first guesses significantly.
+Models can be useful without promising confident predictions.
+If I know I will be meeting new people, I may try to activate
+different parts of my identity as opposed to when I am trying to understand
+something hard. With vocabulary from the model, it is easier to formulate what
+that activation /means/.
+The model helps me pull parts of my identity into the conscious.
+Only then can I make a real conscious effort to behave in the way I intend.
 
 ** Commentary                                                     :noexport:
 /This headline is not exported into the final document./
@@ -41,20 +57,35 @@ dabbling in ways to describe personality,
    - Do I want to communicate something based on the thoughts of others?
    - Or this a recollection of personal experience, allowing others to live
      through it and determine if it is valuable to them?
-2. 
+*** Why even do this?
+I want to understand.
 
+Over time, I gradually want to increase the radius of my understanding.
+Classical mechanics is well-defined and coherent. The human condition less so.
+Yet, we can still build an understanding of each other -- if we allow for some
+other tools to enter.
 
+Physical models are often deterministic. If these preconditions are present, the
+result can be predicted. In practice, this works extremely well. Mechanical
+models used by civil engineers typically have margins of error less than 5 %,
+and often negligibly close to zero.
 
+Psychological models are a different breed. Current psychological models have
+nowhere near the predictive capability of physical models. As humans are vastly
+more complex than point masses with momentum and angular momentum, we may never
+have a total model of a human being. There may never be a time when we can
+confidently predict the actions of a human being. I hope that will never be the
+case.
 
+We are not able to enclose the totality of human behavior within a model.
 
-
-
-
-
-
-
-
-
+As we are not able to create a /total model/ of humans, we must be sure not to
+interpret the results in a total way. We can never really predict behavior --
+yet we may improve our first guesses significantly. Models can also be used as
+pure tools. If I know I will be meeting new people, I may try to activate
+different parts of my identity as opposed to when I am trying to understand
+something hard. With vocabulary from the model, it is easier to formulate what
+that focus /means/.
 ** Myers-Briggs Type Indicators (MBTI)
 Theory on Myers-Briggs Type Indicators assert that individuals have preferred
 mental tools, and that these change between individuals. A personality profile
@@ -73,15 +104,16 @@ logic (T) and plans far ahead (J) will be classified as an INTJ.
 
 To get classified, one may take the test on [[http://www.16personalities.com][the 16 Personalities website]]. The
 result will be a four letter indicator and a ratio for the position on each
-axis. The 16 Personalities test also gives a fifth axis which I will not focus
-on here.
-
-*MBTI are preferences* ... MBTI describes preferred mental tools; preferred
-mental models. That does not cause inability of mode of operation outside of
-one's preference -- only increased effort to exit the comfort zone.
+axis. The 16 Personalities test also gives a fifth axis which I will not explain
+ here.
 
 # TODO: explain percentages and examplify my own. "Really like long term", but
 # "can be opportunistic with planning".
+
+MBTI describes preferred mental tools; preferred mental models. That does not
+cause inability of mode of operation outside of one's preference -- only
+increased effort to exit the comfort zone. In other words, MBTI describes our
+behavior when walking the path of least resistance.
 ** On the approximations of MBTI
 Wikipedia lists up both theoretical and empirical criticism of Myers-Briggs
 Type Indicators[fn:wikipedia-mbti-criticism]:
@@ -141,6 +173,8 @@ can give aid as to how an argument should be presented in order to effectively
 communicate. For an audience strong on S (sensing), thoughts should be
 concretized as much as possible, and metaphysical arguments avoided. For
 feelers, the impact of the decision on people should be discussed.
+
+*TODO.*
 ** A tool based on positive utility
 Personal opinion: focusing on the positive utility of a type is useful. Think of
 how and where a given type can be useful. How should one then compose a
@@ -148,15 +182,27 @@ multi-typed team? Who should have what responsibility?
 
 Note: Respect people's need for getting out of their comfort zone and taking on
 new challenges.
+
+*TODO.*
 ** From type to mode of being
-Reading up on the theory may give the impression that /one/ class is right for a
-person. I beg to differ.
-# Argument: Model error and meta-model error.
+Reading up on the theory may give the impression that /one/ class is right for each
+person. I will argue that it may be useful to look at the type indicator as a
+mode of being for a person. In a different situation, the same person may be
+better described by a different personality type.
+
+*TODO.* Argument: Model error and meta-model error makes total reasoning
+problematic. Should we instead choose to make weaker statements about people, we
+may increase utility.
 ** Different modes of being are preferred in different situations
+*TODO.* The value of different types depends on the context. What about trying
+to choose to embrace traits based on the situation one is in?
 ** Use your type to improve your weaknesses
 When you don't make an effort, you will fit in your type and follow your
 preference. Go out of your comfort zone and try other modes of being to improve
 on the places where you are weak.
+
+People easily get good at what they like doing. The type can open one's eyes to
+what traits they may need to improve. *TODO.*
 ** References
 [fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
 
