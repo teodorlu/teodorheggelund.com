@@ -1,7 +1,7 @@
 ---
 title: Effective, flexible utility of Myers Briggs Type Indicators 
 author: Teodor Heggelund
-date: 2018-01-05
+date: KLADD
 ---
 
 Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
@@ -50,62 +50,7 @@ Error in model.
 **** From dogma to tool
 Shell pragmatic use of MBTI.
 **** A tool for expression
-When I know the person I am communicating with, I can tailor the way I act. In a
-meaningful conversation, the medium is suitable for the topic, the communicator
-and the listener.
-
-1. *The topic* should be possible to discuss within the bounds of the mode of
-   communication. Being overly scientific in ones mindset will limit one's
-   ability to appreciate art. Attempting to understand theoretical mathematics
-   purely through feelings is rarely effective.
-2. *The communicator* should master the mode of communication. This is rarely a
-   problem. People usually do things they are comfortable doing. It may even be
-   a good idea to try to step outside of the mode of communication one is
-   comfortable with, which enables learning.
-3. *The receiver* must be able to understand what is being said. The
-   communicator should therefore use a language too unfamiliar to the listener.
-   The ability of the receiver may be even more important than the perspective
-   of the communicator.
-
-Often times, a topic can be approached through several different modes of
-communication. In this case that the communicator may be able to tailor the mode
-of communication to the listener. When speaking to a person interested in
-people, talk about the effects on people. If the listener prefers scientific
-rigor, attempt to make a principled argument.
-
-I have learned through experience that I often think very differently from the
-people I am communicating with. If I simply let my thoughts flow into the room,
-I am prone to loose most people. I therefore need to moderate myself in the use
-of abstract thought. Context may also be different. What seems obvious to me may
-not be obvious to others, who have different frames of mind. I can argue
-explicitly, attempting to lay out all important considerations. When this is the
-case, other people may judge the argument based on the explicit reasoning alone.
-When the thought process is mostly implicit and inductive, more trust is needed.
-
-MBTI can be used as a tool to understand what mode of communication is
-appropriate for the conversation. For an audience strong on sensing (S),
-thoughts should be concretized as much as possible, and metaphysical arguments
-avoided. For feelers (F), discuss how the decision will impact people.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- SNIP -
 **** A tool based on positive utility
 **** From type to mode of being
 **** Different modes of being are preferred in different situations
@@ -224,9 +169,7 @@ and the listener.
    a good idea to try to step outside of the mode of communication one is
    comfortable with, which enables learning.
 3. *The receiver* must be able to understand what is being said. The
-   communicator should therefore use a language too unfamiliar to the listener.
-   The ability of the receiver may be even more important than the perspective
-   of the communicator.
+   communicator must therefore use language familiar to the listener.
 
 A topic can often be approached through several different modes of
 communication. If this is the case, the communicator may be tailor the mode of
