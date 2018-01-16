@@ -74,6 +74,20 @@ and inductive, more trust is needed.
    - Do I want to communicate something based on the thoughts of others?
    - Or this a recollection of personal experience, allowing others to live
      through it and determine if it is valuable to them?
+*** Headlining arguments
+Thesis: how to make use of MBTI.
+
+Value propositions:
+
+- Aid in effectively communicating with people of other types from yourself.
+  - This is valuable.
+- "Focus on positives"
+  - Platitude?
+  - Removed
+- Adapt to the right mindset for a specific situation
+  - Make explicit.
+- Raise awareness of your own weaker modes.
+  - Then build them!
 ** Myers-Briggs Type Indicators (MBTI)
 Theory on Myers-Briggs Type Indicators assert that individuals have preferred
 mental tools, and that these change between individuals. A personality profile
@@ -186,15 +200,6 @@ MBTI can be used as a tool to understand what mode of communication is
 appropriate for the conversation. For an audience strong on sensing (S),
 thoughts should be concretized as much as possible, and metaphysical arguments
 avoided. For feelers (F), discuss how the decision will impact people.
-** A tool based on positive utility
-Personal opinion: focusing on the positive utility of a type is useful. Think of
-how and where a given type can be useful. How should one then compose a
-multi-typed team? Who should have what responsibility?
-
-Note: Respect people's need for getting out of their comfort zone and taking on
-new challenges.
-
-*TODO.*
 ** From type to mode of being
 Reading up on the theory may give the impression that /one/ class is right for each
 person. I will argue that it may be useful to look at the type indicator as a
