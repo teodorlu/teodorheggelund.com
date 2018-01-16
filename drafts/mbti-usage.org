@@ -245,11 +245,11 @@ and the listener.
    The ability of the receiver may be even more important than the perspective
    of the communicator.
 
-Often times, a topic can be approached through several different modes of
-communication. In this case that the communicator may be able to tailor the mode
-of communication to the listener. When speaking to a person interested in
-people, talk about the effects on people. If the listener prefers scientific
-rigor, attempt to make a principled argument.
+A topic can often be approached through several different modes of
+communication. If this is the case, the communicator may be tailor the mode of
+communication to the listener. When speaking to a person interested in people,
+talk about the effects on people. If the listener prefers scientific rigor,
+attempt to make a principled argument.
 
 I have learned through experience that I often think very differently from the
 people I am communicating with. If I simply let my thoughts flow into the room,
