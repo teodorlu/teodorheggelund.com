@@ -23,7 +23,7 @@ nowhere near the predictive capability of physical models. As humans are vastly
 more complex than point masses with momentum and angular momentum, we may never
 have a total model of a human being.
 
-/We are not able to enclose the totality of human behavior within a model./
+We are not able to enclose the totality of human behavior within a model.
 
 As we are not able to create a /total model/ of humans, we must be sure not to
 interpret the results in a total way. We can never really predict behavior --
@@ -38,19 +38,79 @@ Only then can I make a real conscious effort to behave in the way I intend.
 
 ** Commentary                                                     :noexport:
 /This headline is not exported into the final document./
-*** First draft outline
-- Myers-Briggs Type Indicators (MBTI)
-  - Define MBTI
-- On the approximations of MBTI
-  - Discuss limitations of MBTI
-- From dogma to tool
-  - Discuss mode of utility for MBTI
-- A tool for expression
-- A tool based on positive utility
-- From type to mode of being
-- Different modes of being are preferred in different situations
-- Use your type to improve your weaknesses
-- References
+*** Notes
+**** Introduction
+Motivation. Why bother? Where am I coming from?
+**** Myers-Briggs Type Indicators (MBTI)
+Define the system. What are type indicators. How are they determined. How do we
+use them.
+**** On the approximations of MBTI
+Error in questionaire.
+Error in model.
+**** From dogma to tool
+Shell pragmatic use of MBTI.
+**** A tool for expression
+When I know the person I am communicating with, I can tailor the way I act. In a
+meaningful conversation, the medium is suitable for the topic, the communicator
+and the listener.
+
+1. *The topic* should be possible to discuss within the bounds of the mode of
+   communication. Being overly scientific in ones mindset will limit one's
+   ability to appreciate art. Attempting to understand theoretical mathematics
+   purely through feelings is rarely effective.
+2. *The communicator* should master the mode of communication. This is rarely a
+   problem. People usually do things they are comfortable doing. It may even be
+   a good idea to try to step outside of the mode of communication one is
+   comfortable with, which enables learning.
+3. *The receiver* must be able to understand what is being said. The
+   communicator should therefore use a language too unfamiliar to the listener.
+   The ability of the receiver may be even more important than the perspective
+   of the communicator.
+
+Often times, a topic can be approached through several different modes of
+communication. In this case that the communicator may be able to tailor the mode
+of communication to the listener. When speaking to a person interested in
+people, talk about the effects on people. If the listener prefers scientific
+rigor, attempt to make a principled argument.
+
+I have learned through experience that I often think very differently from the
+people I am communicating with. If I simply let my thoughts flow into the room,
+I am prone to loose most people. I therefore need to moderate myself in the use
+of abstract thought. Context may also be different. What seems obvious to me may
+not be obvious to others, who have different frames of mind. I can argue
+explicitly, attempting to lay out all important considerations. When this is the
+case, other people may judge the argument based on the explicit reasoning alone.
+When the thought process is mostly implicit and inductive, more trust is needed.
+
+MBTI can be used as a tool to understand what mode of communication is
+appropriate for the conversation. For an audience strong on sensing (S),
+thoughts should be concretized as much as possible, and metaphysical arguments
+avoided. For feelers (F), discuss how the decision will impact people.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**** A tool based on positive utility
+**** From type to mode of being
+**** Different modes of being are preferred in different situations
+**** Use your type to improve your weaknesses
+**** References
 *** On the writing process
 1. Should I bring in more sources? That would be different depending on the
    degree of scrutiny I want for the essay.
@@ -168,13 +228,42 @@ and consciousness.
 # anectodally?
 
 ** A tool for expression
-Since MBTI gives an indication of a personality's preferred mode of being, it
-can give aid as to how an argument should be presented in order to effectively
-communicate. For an audience strong on S (sensing), thoughts should be
-concretized as much as possible, and metaphysical arguments avoided. For
-feelers, the impact of the decision on people should be discussed.
+When I know the person I am communicating with, I can tailor the way I act. In a
+meaningful conversation, the medium is suitable for the topic, the communicator
+and the listener.
 
-*TODO.*
+1. *The topic* should be possible to discuss within the bounds of the mode of
+   communication. Being overly scientific in ones mindset will limit one's
+   ability to appreciate art. Attempting to understand theoretical mathematics
+   purely through feelings is rarely effective.
+2. *The communicator* should master the mode of communication. This is rarely a
+   problem. People usually do things they are comfortable doing. It may even be
+   a good idea to try to step outside of the mode of communication one is
+   comfortable with, which enables learning.
+3. *The receiver* must be able to understand what is being said. The
+   communicator should therefore use a language too unfamiliar to the listener.
+   The ability of the receiver may be even more important than the perspective
+   of the communicator.
+
+Often times, a topic can be approached through several different modes of
+communication. In this case that the communicator may be able to tailor the mode
+of communication to the listener. When speaking to a person interested in
+people, talk about the effects on people. If the listener prefers scientific
+rigor, attempt to make a principled argument.
+
+I have learned through experience that I often think very differently from the
+people I am communicating with. If I simply let my thoughts flow into the room,
+I am prone to loose most people. I therefore need to moderate myself in the use
+of abstract thought. Context may also be different. What seems obvious to me may
+not be obvious to others, who have different frames of mind. I can argue
+explicitly, attempting to lay out all important considerations. When this is the
+case, other people may judge the argument based on the explicit reasoning alone.
+When the thought process is mostly implicit and inductive, more trust is needed.
+
+MBTI can be used as a tool to understand what mode of communication is
+appropriate for the conversation. For an audience strong on sensing (S),
+thoughts should be concretized as much as possible, and metaphysical arguments
+avoided. For feelers (F), discuss how the decision will impact people.
 ** A tool based on positive utility
 Personal opinion: focusing on the positive utility of a type is useful. Think of
 how and where a given type can be useful. How should one then compose a
