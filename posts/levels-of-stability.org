@@ -23,7 +23,7 @@ finnes i folks hoder, uten at den er skrevet ned noe sted.
 *Vi beholder stabilitet /og/ kan gjøre endringer ved å ha tydelige nivåer med
  forskjellig grad av stabilitet*. Det mest stabile går i en kjerne. Ytterkanten
  er mykere. Hard kjerne, mykere skall.
-* Systemanalyse i lys av nivåer av stabilitet
+** Systemanalyse i lys av nivåer av stabilitet
 /Systemer med mange deler har større behov for en hard kjerne./
 
 Dess flere komponenter som finnes i systemet, jo større er behovet for noe fast.
@@ -41,7 +41,7 @@ kunnskapen har en verdi! Den er ikke noe som skal forkastes uten å vurdere hva
 vi vinner mot hva vi taper. Verdien av tradisjon mot verdien av nyskaping
 varierer mellom systemer. I en nyoppstartet bedrift finnes det derimot kanskje
 ikke en etablert standard i det hele tatt.
-* Systemutviklere som kaosbekjempere og verktøybyggere
+** Systemutviklere som kaosbekjempere og verktøybyggere
 Hvis stabilitet og endringsvilje er en kontrast, hvilke systemforbedringer kan
 vi da gjøre?
 
@@ -63,7 +63,7 @@ for automatiserte bygg. Kanskje skal vi vedlikeholde et sanntidssystem? I så
 fall trenger vi oversikt, vi trenger verktøy for å spørre om hva som skjer.
 Kanskje lager vi dette som en chatbot. Kanskje lager vi et grafisk grensesnitt
 som er tilgjengelig for flere.
-* La oss bekjempe kaos ved å bygge verktøy for å lage nivåer av stabilitet!
+** La oss bekjempe kaos ved å bygge verktøy for å lage nivåer av stabilitet!
 Jeg har postulert at kaos og orden er motpoler der vi trenger begge, og at
 systemutviklerens posisjon er på frontlinjen mot kaoset. Vi trenger imidlertid
 ikke bære ansvaret alene -- når vi kan legge til rette for at andre kan bidra.
