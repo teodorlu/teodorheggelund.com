@@ -212,11 +212,15 @@ and the listener.
    communicator must therefore use language familiar to the listener.
 
 A topic can often be approached through several different modes of
-communication. If this is the case, the communicator may be tailor the mode of
-communication to the listener. When speaking to a person interested in people,
-talk about the effects on people. If the listener prefers scientific rigor,
-attempt to make a principled argument.
+communication.
+If this is the case, the communicator may tailor his mode of communication to
+the listener.
+When speaking to a person interested in people, talk about the effects on
+people.
+If the listener prefers scientific rigor, attempt to make a principled argument.
 
+# Why is this relevant? This paragraph breaks with the previous and the next.
+# Relate this to MBTI. Otherwise, remove it.
 I have learned through experience that I often think very differently from the
 people I am communicating with. If I simply let my thoughts flow into the room,
 I am prone to loose most people. I therefore need to moderate myself in the use
