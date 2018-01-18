@@ -8,30 +8,42 @@ Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
 
 I am driven by my need to understand.
 
-Over time, I gradually want to increase the radius of my understanding.
-Classical mechanics is well-defined and coherent. The human condition less so.
+I want to increase the radius of my understanding continuously.
+Through my education, I have gotten a grip on classical mechanics.
+Classical mechanics describes the motion of bodies under the influence of forces.
+Classical mechanics is well-defined and coherent.
+The human condition less so.
 Yet, we can still build an understanding of each other -- if we allow for some
 other tools to enter.
 
-Physical models are often deterministic. If a set of preconditions are present,
-the result can be predicted. In practice, this works extremely well. Mechanical
-models used by civil engineers typically have margins of error less than 5 %,
-often negligibly close to zero.
+Physical models are often deterministic.
+If a set of preconditions are present, the result can be predicted.
+In practice, this is extremely useful.
+Mechanical models used by civil engineers typically have margins of error provably
+less than 5 %, often negligibly close to zero.
+Because the error is /bounded/ -- provably below some limit -- we may
+confidently predict behavior within a bounded error.
+If we want to prove that a structure is safe under some load, and know that our
+margin of error is less than 2 %, we can simply design the structure for a load
+that is 2 % bigger, and safety is guaranteed.
 
-Psychological models are a different breed. Current psychological models have
-nowhere near the predictive capability of physical models. As humans are vastly
-more complex than point masses with momentum and angular momentum, we may never
-have a total model of a human being.
+Psychological models are a different breed.
+Humans are vastly more complex than point masses with momentum and angular momentum.
+Current psychological models have nowhere near the predictive accuracy of
+physical models.
+The margin of error is typically not bounded, and scientific models describe
+correlation and probability instead of predicting behavior.
 
 We are not able to enclose the totality of human behavior within a model.
 
 As we are not able to create a /total model/ of humans, we must be sure not to
-interpret the results in a total way. We can never really predict behavior --
-yet we may improve our first guesses significantly.
-Models can be useful without promising confident predictions.
-If I know I will be meeting new people, I may try to activate
-different parts of my identity as opposed to when I am trying to understand
-something hard. With vocabulary from the model, it is easier to formulate what
+interpret the results in a total way.
+We can never really predict behavior -- yet we may improve our first guesses
+significantly.
+Models that do not confidently predict behavior can also be useful.
+If I know I will be meeting new people, I may try to activate different parts of
+my identity as opposed to when I am trying to understand complicated theory.
+With vocabulary from the model, it is easier to formulate what
 that activation /means/.
 The model helps me pull parts of my identity into the conscious.
 Only then can I make a real conscious effort to behave in the way I intend.
@@ -88,6 +100,17 @@ Value propositions:
   - Make explicit.
 - Raise awareness of your own weaker modes.
   - Then build them!
+*** Metacomment
+I am getting overly theoretical. I should be bringing this directly from
+practical experience, and not going on at length about something I think.
+
+- I am experiencing increased SJ in Japan; a focus on the specific planning.
+  By being more specific and allowing for a bit more planning in advance, I can
+  utilize the system. Clerks are able to give accurate answers, and the hotel is
+  able to plan properly in advance.
+- In some restaurants, I have experienced hosts tending towards EFP. That is the
+  case when you should start talking and get to know people! They tend to be
+  really easy to get along with.
 ** Myers-Briggs Type Indicators (MBTI)
 Theory on Myers-Briggs Type Indicators assert that individuals have preferred
 mental tools, and that these change between individuals. A personality profile
@@ -107,15 +130,17 @@ logic (T) and plans far ahead (J) will be classified as an INTJ.
 To get classified, one may take the test on [[http://www.16personalities.com][the 16 Personalities website]]. The
 result will be a four letter indicator and a ratio for the position on each
 axis. The 16 Personalities test also gives a fifth axis which I will not explain
- here.
+here.
 
 # TODO: explain percentages and examplify my own. "Really like long term", but
 # "can be opportunistic with planning".
 
-MBTI describes preferred mental tools; preferred mental models. That does not
-cause inability of mode of operation outside of one's preference -- only
-increased effort to exit the comfort zone. In other words, MBTI describes our
-behavior when walking the path of least resistance.
+MBTI describes preferred mental tools; preferred mental models; a preference for
+operation.
+Preference does not imply inability to do something else -- only increased
+effort to exit the comfort zone.
+In other words, MBTI describes our behavior when walking the path of least
+resistance.
 ** On the approximations of MBTI
 Wikipedia lists up both theoretical and empirical criticism of Myers-Briggs
 Type Indicators[fn:wikipedia-mbti-criticism]:
@@ -219,6 +244,9 @@ on the places where you are weak.
 
 People easily get good at what they like doing. The type can open one's eyes to
 what traits they may need to improve. *TODO.*
+
+Note temperamental differences between people. Some people love being at the
+edge of what they understand. Others cling to what they know. *TODO*
 ** References
 [fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
 
