@@ -152,7 +152,7 @@ what it purports to measure) and poor reliability (giving different results for
 the same person on different occasions).
 #+END_QUOTE
 
-As a scientific model, MBTI has serious drawbacks.
+As a scientific model, MBTI makes several approximations:
 
 - Test error: How wrong is the test you take?
 - Model error: How wrong are the four chosen axes? They were just decided by
@@ -162,9 +162,10 @@ As a scientific model, MBTI has serious drawbacks.
   with skill, but /it is not the same/. Some people have well developed
   multi-faceted modes of being.
 
-These drawbacks are in my opinion major. As I cannot fully trusting console the
-approximations made with reality, I am left to only be able to take MBTI as a
-non-total approximation. It cannot describe the totality of a personality, and
+I find these drawbacks to be significant.
+As I cannot fully trusting console the approximations made with reality, I am
+left to only be able to take MBTI as a non-total approximation.
+MBTI cannot totally describe a personality, and
 it should therefore not be presumed that a MBTI type is sufficient for a good
 understanding of a human being.
 ** From dogma to tool
