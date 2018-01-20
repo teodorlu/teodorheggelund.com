@@ -1,7 +1,7 @@
 ---
 title: Effective, flexible utility of Myers Briggs Type Indicators 
 author: Teodor Heggelund
-date: KLADD
+date: 2018-01-20
 ---
 
 Keywords: /philosophy/, /principles/, /psychology/, /psychonometrics/.
