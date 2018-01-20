@@ -113,8 +113,7 @@ practical experience, and not going on at length about something I think.
   really easy to get along with.
 ** Myers-Briggs Type Indicators (MBTI)
 Theory on Myers-Briggs Type Indicators assert that individuals have preferred
-mental tools, and that these change between individuals. A personality profile
-is described along four axes:
+mental tools. A personality profile is described along four axes:
 
 - Extroversion (E) or introversion (I);
 - Sensing (S) or intuition (N);
