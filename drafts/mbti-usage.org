@@ -164,12 +164,13 @@ As a scientific model, MBTI makes several approximations:
 I find these drawbacks to be significant.
 As I cannot fully trusting console the approximations made with reality, I am
 left to only be able to take MBTI as a non-total approximation.
-MBTI cannot totally describe a personality, and
-it should therefore not be presumed that a MBTI type is sufficient for a good
-understanding of a human being.
+MBTI cannot totally describe a personality, and it should therefore not be
+presumed that a MBTI type is sufficient for a good understanding of a human
+being.
 ** From dogma to tool
 A classification can be a procrustean bed that limits our perception. I prefer
-thinking of the type indicators as a starting point for understanding a person.
+thinking of the type indicators as a starting point for understanding a person
+rather than a final answer.
 
 How should we approach personality? Is personality something we may ever totally
 understand? Will we finally have a total understanding of how the human mind
@@ -177,23 +178,20 @@ works? This question has troubled the mind of many a man over the course of
 mankind. We attempt to answer this question in a multitude of fields.
 Neuropsychology attempts to explain how we think with science. The humanities
 use literature to describe the human condition. Religion provides principles for
-how we should act when facing totality.
+how we should act when facing the world and all its suffering.
 
-When we apply scientific rigor, we will only be able to 
-# TODO
+Phenomenology is the study of the human experience and consciousness.
+MBTI is a phenomenological tool -- right from the beginning.
+The assignment of a psychological type does not happen by a scientific process,
+it is derived from the person's own experience and self-evaluation.
 
-We can say very little with scientific confidence.
-# TODO
-
-MBTI is a phenomenological tool. It describes the human experience. Its utility
-should be derived from that. Phenomenology is the study of the human experience
-and consciousness.
-# (That's convenient -- when we're describing humans!)
-# Meta. We're using a framework based on human experience to describe human
-# experience; no need to reduce via science.
-# Have you ever tried to describe your emotions with pure science -- compared to
-# anectodally?
-
+We should therefore not be surprised when people behave in a way that is not
+consistent with their type -- as predicting human behavior was never in the
+scope of the model.
+Instead, we may utilize the theory for partial understanding.
+Fortunately, a partial understanding of people is not bad! We rarely get to know
+anyone completely.
+Even our own mind can come to surprise us.
 ** A tool for expression
 When I know the person I am communicating with, I can tailor the way I act. In a
 meaningful conversation, the medium is suitable for the topic, the communicator
