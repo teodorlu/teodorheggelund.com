@@ -206,7 +206,7 @@ and the listener.
    a good idea to try to step outside of the mode of communication one is
    comfortable with, which enables learning.
 3. *The receiver* must be able to understand what is being said. The
-   communicator must therefore use language familiar to the listener.
+   communicator must therefore use language within the grasp of the listener.
 
 A topic can often be approached through several different modes of
 communication.
@@ -216,12 +216,13 @@ When speaking to a person interested in people, talk about the effects on
 people.
 If the listener prefers scientific rigor, attempt to make a principled argument.
 
-# Why is this relevant? This paragraph breaks with the previous and the next.
-# Relate this to MBTI. Otherwise, remove it.
-I have learned through experience that I often think very differently from the
-people I am communicating with. If I simply let my thoughts flow into the room,
-I am prone to loose most people. I therefore need to moderate myself in the use
-of abstract thought.
+I have learned through experience to tailor my mode of communication to the
+person I am speaking with.
+If I simply let my thoughts flow into the room, I often face confused faces.
+By moderating abstract arguments into something more specific, I am able to
+reach a broader argument.
+Being more explicit in one's assumptions can also help avoid what may appear to
+be sudden leaps.
 
 MBTI can be used as a tool to understand what mode of communication is
 appropriate for the conversation. For an audience strong on sensing (S),
