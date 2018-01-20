@@ -142,7 +142,7 @@ In other words, MBTI describes our behavior when walking the path of least
 resistance.
 ** On the approximations of MBTI
 Wikipedia lists up both theoretical and empirical criticism of Myers-Briggs
-Type Indicators[fn:wikipedia-mbti-criticism]:
+Type Indicators:
 
 #+BEGIN_QUOTE
 Although popular in the business sector, the MBTI exhibits significant
@@ -274,7 +274,7 @@ Or do you want to thread the waters on the edge of your capacity?
 MBTI can help you perceive where you have something to learn from others.
 Where you can benefit from paying attention to how others act; where they may do
 things in a way superior to your own.
-** References
+** References                                                     :noexport:
 [fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
 
 [fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to criticism-specific section.
