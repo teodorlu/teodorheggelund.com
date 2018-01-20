@@ -230,13 +230,24 @@ thoughts should be concretized as much as possible, and metaphysical arguments
 avoided. For feelers (F), discuss how the decision will impact people.
 ** From type to mode of being
 Reading up on the theory may give the impression that /one/ class is right for each
-person. I will argue that it may be useful to look at the type indicator as a
-mode of being for a person. In a different situation, the same person may be
-better described by a different personality type.
+person.
+I believe a slightly more nuanced understanding is in place.
+Every person changes continuously with their environment.
+When we sit and think deeply about a topic for a while, we will not be too
+talkative when finally going into a room full of people.
+By striking up random conversations, putting our body in motion and doing
+improvisational exercises, we loosen up.
+Sure, we may have an overall preference.
+But that does not mean we do not adapt to situations!
 
-*TODO.* Argument: Model error and meta-model error makes total reasoning
-problematic. Should we instead choose to make weaker statements about people, we
-may increase utility.
+I propose taking the profile as a mode of being.
+Introverted people can become engaged in conversations.
+Thinkers may enjoy being engulfed in feelings.
+If we so choose.
+And we can!
+If we choose that we are bounded by our type, we may be.
+If we take the type as a mode of being we revert to without conscious effort, we
+can /make conscious effort/ to exit the bounds of our type.
 ** Different modes of being are preferred in different situations
 *TODO.* The value of different types depends on the context. What about trying
 to choose to embrace traits based on the situation one is in?
