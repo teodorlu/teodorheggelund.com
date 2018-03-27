@@ -16,7 +16,7 @@ The human condition less so.
 Yet, we can still build an understanding of each other -- if we allow for some
 other tools to enter.
 
-Physical models are often deterministic.
+Models used in physics are often deterministic.
 If a set of preconditions are present, the result can be predicted.
 In practice, this is extremely useful.
 Mechanical models used by civil engineers typically have margins of error provably
@@ -37,16 +37,16 @@ correlation and probability instead of predicting behavior.
 We are not able to enclose the totality of human behavior within a model.
 
 As we are not able to create a /total model/ of humans, we must be sure not to
-interpret the results in a total way.
+interpret the results from the model in a total way.
 We can never really predict behavior -- yet we may improve our first guesses
 significantly.
 Models that do not confidently predict behavior can also be useful.
 If I know I will be meeting new people, I may try to activate different parts of
 my identity as opposed to when I am trying to understand complicated theory.
-With vocabulary from the model, it is easier to formulate what
+With vocabulary from the model based on Myers-Briggs Type Indicators, it is easier to formulate what
 that activation /means/.
 The model helps me pull parts of my identity into the conscious.
-Only then can I make a real conscious effort to behave in the way I intend.
+Only then can I make a conscious effort to behave in the way I intend.
 
 ** Commentary                                                     :noexport:
 /This headline is not exported into the final document./
@@ -112,12 +112,12 @@ practical experience, and not going on at length about something I think.
   case when you should start talking and get to know people! They tend to be
   really easy to get along with.
 ** Myers-Briggs Type Indicators (MBTI)
-Theory on Myers-Briggs Type Indicators assert that individuals have preferred
+The theory of Myers-Briggs Type Indicators assert that individuals have preferred
 mental tools. A personality profile is described along four axes:
 
 - Extroversion (E) or introversion (I);
 - Sensing (S) or intuition (N);
-- Thinking (T) or feeling (F); and the last,
+- Thinking (T) or feeling (F); and lastly,
 - Judging (J) or perceiving (P).
 
 A person who is relaxed around people (E); prefers near, well-defined details
@@ -134,8 +134,8 @@ here.
 # TODO: explain percentages and examplify my own. "Really like long term", but
 # "can be opportunistic with planning".
 
-MBTI describes preferred mental tools; preferred mental models; a preference for
-operation.
+MBTI describes our preference for mental tools and mental models;
+  a preferred mode of operation.
 Preference does not imply inability to do something else -- only increased
 effort to exit the comfort zone.
 In other words, MBTI describes our behavior when walking the path of least
@@ -162,7 +162,7 @@ As a scientific model, MBTI makes several approximations:
   multi-faceted modes of being.
 
 I find these drawbacks to be significant.
-As I cannot fully trusting console the approximations made with reality, I am
+As I cannot fully trusting consolidate the approximations made with reality, I am
 left to only be able to take MBTI as a non-total approximation.
 MBTI cannot totally describe a personality, and it should therefore not be
 presumed that a MBTI type is sufficient for a good understanding of a human
@@ -194,7 +194,7 @@ anyone completely.
 Even our own mind can come to surprise us.
 ** A tool for expression
 When I know the person I am communicating with, I can tailor the way I act. In a
-meaningful conversation, the medium is suitable for the topic, the communicator
+meaningful conversation, the medium is suitable for the topic, the communicator,
 and the listener.
 
 1. *The topic* should be possible to discuss within the bounds of the mode of
@@ -207,6 +207,8 @@ and the listener.
    comfortable with, which enables learning.
 3. *The receiver* must be able to understand what is being said. The
    communicator must therefore use language within the grasp of the listener.
+
+# Liste flyter ikke veldig godt med resten av teksten. Føles ikke naturlig.
 
 A topic can often be approached through several different modes of
 communication.
