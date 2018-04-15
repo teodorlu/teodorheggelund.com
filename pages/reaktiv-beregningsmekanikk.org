@@ -1,0 +1,17 @@
+---
+title: Reaktiv beregningsmekanikk
+author: Teodor Heggelund
+date: 2018-03-28
+---
+
+De siste 30 årene har gitt oss enormt mye bedre informasjonsteknologi, samt
+verktøy for å bygge informasjonssytemer. Behandling av FEM-analyser har derimot
+sett svært få endringer. FEM-analysen er et informasjonssystem, og vi har nå
+grunnlaget for å gjøre den bedre.
+
+Noen ressurser til å belyse saken:
+
+- [[../static/reaktiv-mekanikk.pdf][Mitt perspektiv (2017)]]
+- [[../static/beregningsdokument-arbeidsprosess.webm][Skisse til interaksjonsform under arbeid (2017)]] 
+- [[../static/beregningsdokument-resultat.html][Skisse til resultatdokument (2017)]]
+
