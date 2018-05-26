@@ -25,15 +25,44 @@ provide semantic information about where a paragraph begins and ends. A video
 file does not provide semantic information about filmed text. A human may be
 able to recognize a paragraph is, but a machine may not reliably do so.
 
-/You may be right. But how is this useful?/
+/But how is this useful?/
 
 The fact that the Internet is divided into documents that stay at the same
 Internet address is the reason that you are actually able to find things on
 Google. Ever tried searching for a paragraph inside a video file or an audio
 file? That's pretty hard. Another challenge is differentiating between [[https://en.wikipedia.org/wiki/Homonym][words
-that sound the same]].
+that sound the same]]. The Internet is composed of stable, semantic documents.
 
-*TODO: link to Hypothesis and describe how to use it!*
+/... what about commentary?/
+
+Commentary is not stable by nature. Commentary is interaction, change. It does
+not fit well into the realm of stability of the Internet. Put a comment in some
+comment box on some random site? How will you know if someone replies? Will you
+note all the places you ever made a note on the Internet? Or will you just /not
+make notes/? I tend to not bother with commenting on what others publish on the
+Internet for this exact reason. Here's where Hypothesis comes in. I will state
+this about Hypothesis:
+
+- /Hypothesis is the proper semantics for commentary./ Comments are not sent
+  away into the ether, never to return. You can organize them all, centrally.
+  You can edit your own comments. You can search in them.
+- /Hypothesis is not owned by the site you visit./ Facebook and Google may own
+  half your digital life already. Recent media coverage has shown us that
+  Facebook's use of our data may not be the way we wanted. The proper response
+  is not giving that data away in the first place.
+- /Hypothesis provides proper interaction for commentary and annotation./ You
+  can annotate anything you see on a web site. You can comment on the document
+  instead, if you prefer. You can comment on someone else's comment.
+
+I do not want to own your comments. I want /you/ to own them. If you own them,
+you can easier take responsibility for them. You can follow up on something
+that's important. You can delete them if you need to. You can publish with the
+knowledge that you can respond.
+
+*TODO*
+
+- Link to Hypothesis
+- Describe how I use it
 
 #+BEGIN_SRC html
   <script type="application/json" class="js-hypothesis-config">
