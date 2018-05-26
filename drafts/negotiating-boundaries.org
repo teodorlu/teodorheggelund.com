@@ -20,7 +20,7 @@ In a sense, I could have said structure instead of boundaries. Structure is a
 set of boundaries. Structure is classification. Instead of negotiating
 boundaries, I could have said discussing the design of systems: where the
 boundaries should be placed, and how many boundaries we need. [[https://en.wikipedia.org/wiki/Dataism][Dataism]] as
-described by Harari takes explains the world as an information-processing
+described by Yuval Harari explains the world as an information-processing
 system. What information processing is useful? The information processing that
 helps us make sense of things. The organization of information. Whether it is
 making the information available to a broader audience, or just improving the
