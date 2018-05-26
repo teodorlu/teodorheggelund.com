@@ -2,9 +2,21 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
-
+import           System.IO.Unsafe (unsafePerformIO)
 
 --------------------------------------------------------------------------------
+
+-- Org files from a given folder that are not hidden
+from :: String -> Pattern
+from folder = fromRegex $ "^" ++ folder ++ "/[^\\.][a-zA-Z0-9æøåÆØÅ\\-]*\\.org$"
+
+fromDbg :: String -> Pattern
+fromDbg folder =
+  unsafePerformIO $ do
+    let re = from folder
+    print re
+    return re
+
 main :: IO ()
 main = hakyll $ do
     match "images/*" $ do
@@ -25,7 +37,7 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
-    match "posts/*" $ do
+    match (from "posts") $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
@@ -38,7 +50,7 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
-    match "drafts/*.org" $ do
+    match (from "drafts") $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
