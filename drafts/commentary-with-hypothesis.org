@@ -1,0 +1,44 @@
+---
+title: Commentary with Hypothesis
+author: Teodor Heggelund
+date: 2018-05-26
+---
+
+[[http://web.hypothes.is/][Hypothesis]] may be able to provide proper discussion for any web site. Sounds
+interesting? Read on to learn how Hypothesis can provide interaction to the web
+in a good way.
+
+/Why do I care? And why should you care?/
+
+The Internet just works, doesn't it? I will begin by taking a step back. You are
+reading this text from a web browser. The web browser does not, however, only
+understand the text of the document. It also understands its semantic structure.
+Division into paragraphs is an example of semantic structure. You've double
+clicked to open documents before. Why don't you try to triple-click *here*?
+
+Your web browser is not only able to show you the content of this page, it also
+understands what a paragraph is. This is possible because what you are seeing is
+a /semantic document/.
+
+What are examples of things that are not semantic documents? An audio file does
+provide semantic information about where a paragraph begins and ends. A video
+file does not provide semantic information about filmed text. A human may be
+able to recognize a paragraph is, but a machine may not reliably do so.
+
+/You may be right. But how is this useful?/
+
+The fact that the Internet is divided into documents that stay at the same
+Internet address is the reason that you are actually able to find things on
+Google. Ever tried searching for a paragraph inside a video file or an audio
+file? That's pretty hard. Another challenge is differentiating between [[https://en.wikipedia.org/wiki/Homonym][words
+that sound the same]].
+
+*TODO: link to Hypothesis and describe how to use it!*
+
+#+BEGIN_SRC html
+  <script type="application/json" class="js-hypothesis-config">
+    {"showHighlights": false}
+  </script>
+  <script src="https://hypothes.is/embed.js" async></script>
+#+END_SRC
+
