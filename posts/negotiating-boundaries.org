@@ -1,0 +1,29 @@
+---
+title: Negotiating boundaries
+author: Teodor Heggelund
+date: 2017-09-01
+---
+
+Keywords: /philosophy/.
+
+Lately, many of my trains of thought have ended up in a singular challenge: how
+to negotiate boundaries. Successful political systems negotiate well between
+conservatives wanting to maintain boundaries, and liberals wanting to remove
+them. Successful programming languages design boundaries where they are useful
+without being too much of a pain in the ass. Bad software systems have
+tyrannical boundaries that they force you to abide by, whereas software without
+boundaries are just a pile of code that no-one knows how to touch. Bad
+management either stems from lack of boundaries or too much limitation. Good
+management successfully creates stability /and/ opportunity.
+
+In a sense, I could have said structure instead of boundaries. Structure is a
+set of boundaries. Structure is classification. Instead of negotiating
+boundaries, I could have said discussing the design of systems: where the
+boundaries should be placed, and how many boundaries we need. [[https://en.wikipedia.org/wiki/Dataism][Dataism]] as
+described by Harari takes explains the world as an information-processing
+system. What information processing is useful? The information processing that
+helps us make sense of things. The organization of information. Whether it is
+making the information available to a broader audience, or just improving the
+organization of the information. Useful information processing is thus
+successful negotiation of boundaries. And as we produce more information than
+we remove, we need in sum to add more boundaries than we remove.
