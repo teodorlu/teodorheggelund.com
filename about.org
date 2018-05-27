@@ -5,7 +5,4 @@ Hei!
 ** Kontakt
 Ta kontakt på [[mailto:teodor@teodorheggelund.com][E-post]].
 ** Denne siden
-Du finner kildekoden for denne nettsiden på Github.
-
-Jeg henter inn bruksstatistikk av denne siden. Skru på [[https://en.wikipedia.org/wiki/Do_Not_Track][Do Not Track]] i
-nettleseren din om du ikke vil [[https://github.com/teodorlu/teodorheggelund.com/commit/7e06fb04cde8a3afcf6a499d557efc7c1f88df17][dele bruksinformasjon]].
+Du finner kildekoden for denne nettsiden på [[https://github.com/teodorlu/teodorheggelund.com][Github]].
