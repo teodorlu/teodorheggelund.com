@@ -1,7 +1,7 @@
 ---
 title: Commentary with Hypothesis
 author: Teodor Heggelund
-date: 2018-05-26
+date: 2018-05-27
 ---
 
 [[http://web.hypothes.is/][Hypothesis]] may be able to provide proper discussion for any web site. Sounds
@@ -59,10 +59,22 @@ you can easier take responsibility for them. You can follow up on something
 that's important. You can delete them if you need to. You can publish with the
 knowledge that you can respond.
 
-*TODO*
+This is where Hypothesis comes in.
 
-- Link to Hypothesis
-- Describe how I use it
+- Your comments are your own, not the property of the site you visit. Hypothesis
+  is a non-profit aiming to tackle this problem in the proper way.
+- You annotate and comment the same way on any web page by installing the
+  browser extension. As a developer, I can tailor to the use of Hypothesis over
+  other options, and have it automatically load.
+- No need to create a bunch of one-off accounts for commenting all over the web.
+
+/So how does one use Hypothesis?/
+
+Looking to annotate pages and comment? Check out [[https://web.hypothes.is][hypothes.is]] on how to get
+started.
+
+Looking to integrate Hypothesis into your own Web site as with this one? Include
+this snippet on the pages where you want Hypothesis to load:
 
 #+BEGIN_SRC html
   <script type="application/json" class="js-hypothesis-config">
@@ -71,3 +83,4 @@ knowledge that you can respond.
   <script src="https://hypothes.is/embed.js" async></script>
 #+END_SRC
 
+That's all for now!
