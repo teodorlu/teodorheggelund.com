@@ -68,6 +68,9 @@ This is where Hypothesis comes in.
   other options, and have it automatically load.
 - No need to create a bunch of one-off accounts for commenting all over the web.
 
+# Empty.
+# Workaround: without this, the follow text doesn't render as italic.
+
 /So how does one use Hypothesis?/
 
 Looking to annotate pages and comment? Check out [[https://web.hypothes.is][hypothes.is]] on how to get
