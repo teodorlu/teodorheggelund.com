@@ -26,25 +26,30 @@
                 <h1>$title$</h1>
 
                 $body$
+
+                <hr />
+
+                Kommentar? Marker tekst for å annotere. Bruk pilen oppe til
+                høyre for komme med generelle kommentarer. For mer informasjon
+                om kommentar og diskusjon på denne siden, se <a href="/posts/commentary-with-hypothesis.html">Commentary with Hypothesis</a>.
             </article>
         </div>
 
         <div id="footer">
             <p>
-                Har du en kommentar? Et spørsmål? Ønsker du å diskutere? Jeg
-                anbefaler <a href="https://web.hypothes.is">Hypothesis</a>!
-                <br />
-                Funnet en skrivleif? En link som ikke fungerer? Si hva du mener er feil
-                i en <a href="https://github.com/teodorlu/teodorheggelund.com/issues">sak</a> eller
-                fiks selv i en <a href="https://github.com/teodorlu/teodorheggelund.com/pulls">pull request</a>.
-            </p>
-            <p>
                 Denne siden er laget med
                 <a href="http://jaspervdj.be/hakyll">Hakyll</a>. Innhold er
                 lisensiert under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
                     Commons Attribution-NonCommercial 4.0</a> der ikke annet er spesifisert.
-                Det betyr at du kan redistribuere innholdet på denne siden til ikkekommersiell bruk så lenge du siterer hit.
+                Det betyr at du kan redistribuere innholdet på denne siden til ikkekommersiell med sitat.
             </p>
         </div>
+
+        <!-- Load Hypothesis -->
+        <script type="application/json" class="js-hypothesis-config">
+         {"showHighlights": false}
+        </script>
+        <script src="https://hypothes.is/embed.js" async></script>
+
     </body>
 </html>
