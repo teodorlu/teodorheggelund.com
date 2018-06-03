@@ -14,6 +14,7 @@ Ghost recently released their latest album, titled /Prequelle/. Its cover is
 unsettling:
 
 #+ATTR_HTML: :width 400px
+#+CAPTION: Cover for /Prequelle/ by Ghost (2018)
 [[../static/Ghost-Prequelle-800x800.jpg]]
 
 Instead of a stable structure, the throne is a reptilian predator. What we see
@@ -53,10 +54,7 @@ what you need is a foundational reason why Lisp is great. A person with
 experience from procedural languages, would face something that is not at all
 what he expected.
 
-# TODO: Conclude, somehow?
-
-# The moldable foundation that initially seemed unstable may give us stable
-# properties on a larger scale. Given better primitives, we can build better
-# systems.
-
-# On a larger scale,
+Good systems, however are neither rock solid nor infinitely dynamic. They
+provide [[../posts/negotiating-boundaries.html][well-negotiated boundaries]]. Should the boundaries be solid at the level
+of the language? Or do we want to reach deeper, designing boundaries ourselves
+as we need them?
