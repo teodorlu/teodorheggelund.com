@@ -1,0 +1,62 @@
+---
+title: Lisp and Chaos
+author: Teodor Heggelund
+date: 2018-06-03
+---
+
+Lisp can on the first glance seem totally chaotic. The visual image is crowded
+-- indeed way more crowded than would be the case for JavaScript or Python.
+Every line of the source code file bears more meaning. Conditionals are no
+longer neatly separated by their own line. Instead, there may be ifs within ifs
+within ifs.
+
+Ghost recently released their latest album, titled /Prequelle/. Its cover is
+unsettling:
+
+#+ATTR_HTML: :width 400px
+[[../static/Ghost-Prequelle-800x800.jpg]]
+
+Instead of a stable structure, the throne is a reptilian predator. What we see
+is surprising. It is not as we expect. The boundaries are blurred, and we can no
+longer separate the ground from the predator. The ground is no longer stable. We
+cannot trust it.
+
+Let's look at a piece of Clojure code:
+
+#+BEGIN_SRC clojure
+  (handle
+    (foo/car "AA")
+    (other/bar "BB"))
+#+END_SRC
+
+That really depends on ~handle~. Is handle a function? In that case, ~(foo/car
+"AA")~ must be a valid function call. What if ~handle~ is a macro? Something
+like this could happen:
+
+#+BEGIN_SRC clojure
+  (defmacro handle [& body]
+    (into {}
+          (for [[k v] body]
+            [(keyword k) v])))
+
+  (prn (handle
+    (foo/car "AA")
+    (other/bar "BB")))
+  ;; => {:foo/car "AA", :other/bar "BB"}
+#+END_SRC
+
+Our foundation in Lisp is not solid. It is moldable. We can change it. That
+means other people can change it, too. The ground may not be what we expect it
+to be. I will not claim this to be purely positive or purely negative. An
+experienced Lisper would say that the fact that you can mold the language into
+what you need is a foundational reason why Lisp is great. A person with
+experience from procedural languages, would face something that is not at all
+what he expected.
+
+# TODO: Conclude, somehow?
+
+# The moldable foundation that initially seemed unstable may give us stable
+# properties on a larger scale. Given better primitives, we can build better
+# systems.
+
+# On a larger scale,
