@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
+import           Data.Maybe (fromMaybe)
 import           Hakyll
 import           System.IO.Unsafe (unsafePerformIO)
 
@@ -88,10 +89,21 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateCompiler
 
+-- describeLanguage :: Text -> MString
+describeLanguage lang =
+  case lang of
+    "no" -> Just " (Norwegian)"
+    _ -> Nothing
+
+languageContext :: Context a
+languageContext = field "lang" $ \item -> do
+    metadata <- getMetadata (itemIdentifier item)
+    return $ fromMaybe "" $ lookupString "lang" metadata >>= describeLanguage
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
     dateField "date" "%Y-%m-%d" `mappend`
+    languageContext             `mappend`
     defaultContext
 

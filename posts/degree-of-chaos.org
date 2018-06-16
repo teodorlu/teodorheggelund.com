@@ -2,6 +2,7 @@
 title: Grad av kaos i utvikling
 author: Teodor Heggelund
 date: 2017-09-01
+lang: "no"
 ---
 
 Stikkord: /entropi/, /prosjektledelse/, /formidling/, /kaos/.

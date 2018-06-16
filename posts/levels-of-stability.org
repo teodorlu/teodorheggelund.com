@@ -2,6 +2,7 @@
 title: Nivåer av stabilitet
 author: Teodor Heggelund
 date: 2017-10-28
+lang: "no"
 ---
 
 Stikkord: /orden/, /kaos/, /utvikling/.
