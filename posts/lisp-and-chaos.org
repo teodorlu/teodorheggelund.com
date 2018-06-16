@@ -1,5 +1,5 @@
 ---
-title: Lisp and Chaos
+title: Lisp as Chaos
 author: Teodor Heggelund
 date: 2018-06-03
 ---
@@ -10,8 +10,7 @@ Every line of the source code file bears more meaning. Conditionals are no
 longer neatly separated by their own line. Instead, there may be ifs within ifs
 within ifs.
 
-Ghost recently released their latest album, titled /Prequelle/. Its cover is
-unsettling:
+Ghost recently released /Prequelle/. Its cover is unsettling:
 
 #+ATTR_HTML: :width 400px
 #+CAPTION: Cover for /Prequelle/ by Ghost (2018)
@@ -30,9 +29,9 @@ Let's look at a piece of Clojure code:
     (other/bar "BB"))
 #+END_SRC
 
-That really depends on ~handle~. Is handle a function? In that case, ~(foo/car
-"AA")~ must be a valid function call. What if ~handle~ is a macro? Something
-like this could happen:
+The meaning of the code really depends on ~handle~. Is handle a function? In
+that case, ~(foo/car "AA")~ must be a valid function call. What if ~handle~ is a
+macro? Something like this could happen:
 
 #+BEGIN_SRC clojure
   (defmacro handle [& body]
@@ -41,20 +40,36 @@ like this could happen:
             [(keyword k) v])))
 
   (prn (handle
-    (foo/car "AA")
-    (other/bar "BB")))
+        (foo/car "AA")
+        (other/bar "BB")))
   ;; => {:foo/car "AA", :other/bar "BB"}
 #+END_SRC
 
 Our foundation in Lisp is not solid. It is moldable. We can change it. That
 means other people can change it, too. The ground may not be what we expect it
-to be. I will not claim this to be purely positive or purely negative. An
-experienced Lisper would say that the fact that you can mold the language into
-what you need is a foundational reason why Lisp is great. A person with
-experience from procedural languages, would face something that is not at all
-what he expected.
+to be.
+
+We see something, but we cannot tell what it /is/. Not knowing the identity of
+something is at the core of fear. We naturally fear what is unknown. Why? Fear
+provokes reflection. Fear causes us to stop and think. Stopping and thinking
+happens to be extremely useful when we encounter something new. In fact, there
+is reason to believe that fear, evolutionarily, developed as /the optimal way to
+handle the unknown/. Don't like feeling bad? Don't like having to redefine how
+you think? Your options are twofold. Either protect what you do know as if it is
+what is dearest to you, and fight off all attacks. What if you wish to continue
+learning? By handling the initial fear of the unknown, you may end up in a mode
+of exploration.
+
+Lisp is flexible. So flexible, in fact, that the natural reaction may be fear. I
+will not claim this to be purely positive or purely negative. An experienced
+Lisper would say that the fact that you can mold the language into what you need
+is a foundational reason why Lisp is great. A person with experience from
+procedural languages, would face something that is not at all what he expected.
 
 Good systems, however are neither rock solid nor infinitely dynamic. They
 provide [[../posts/negotiating-boundaries.html][well-negotiated boundaries]]. Should the boundaries be solid at the level
 of the language? Or do we want to reach deeper, designing boundaries ourselves
 as we need them?
+
+What about yourself? Are you ready to redefine your boundaries, or would you
+rather have some peace and quiet?
