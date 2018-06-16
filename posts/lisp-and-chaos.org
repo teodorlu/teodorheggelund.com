@@ -4,6 +4,13 @@ author: Teodor Heggelund
 date: 2018-06-03
 ---
 
+#+BEGIN_QUOTE
+Lisp is a family of flexible programming languages. Want to know more about
+Lisp? I recommend Paul Graham's essays on how [[http://www.paulgraham.com/diff.html][Lisp differs from other
+programming languages]] and [[http://www.paulgraham.com/avg.html][what makes Lisp good]]. Both articles are from the early
+era of the Internet, yet [[https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf][relevant today]].
+#+END_QUOTE
+
 Lisp can on the first glance seem totally chaotic. The visual image is crowded
 -- indeed way more crowded than would be the case for JavaScript or Python.
 Every line of the source code file bears more meaning. Conditionals are no
