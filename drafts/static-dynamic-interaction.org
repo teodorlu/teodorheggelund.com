@@ -70,4 +70,114 @@ the same". We wan't good state management by having a structured approach to the
 static-dynamic interaction in our application. And that usually means encoding
 all values as values, and keeping our references to a minimum. Reference up top,
 and immutability all the way down.
-** 
+** Planning: making stable, agile systems by setting static-dynamic boundaries
+"But! But, but! Butts! I can't guarantee what will happen! I can't say! What if
+it doesn't work out the way we planned? What if something unexpected happens? I
+can't give you an estimate! The scope will expand, and there will be like 103
+revisions until everyone are happy!"
+
+Current software engineering practices used out in the wild, typically all use
+some version of agile. At least they say they do. Since we can't know all the
+requirements up front, we need to change, adapt and reconsider. No shit,
+Sherlock. The image of the old, terrible past is painted. "We're not using
+waterfall! We're agile! We're changing as we go!". The words /waterfall/ and
+/agile/ are set up against each other. From pitch black darkness to
+enlightenment. From no changes, to all the changes. This image is terribly
+low-resolution.
+
+#+BEGIN_CENTER
+/We don't want everything to change all the time./
+#+END_CENTER
+
+Agile isn't about changing everything. It's about changing things /sensibly/.
+And that means stability in the change. Change, nested in stability, nested in
+change. Agile methodologies even provide us with more things that don't change.
+A methodology itself, is an attempt at describing what /shouldn't/ change. It's
+an attempt at defining the part of the system that's orthogonal to change.
+
+"It's about time you come back down to earth, Teodor. Give me some examples.
+Some meat."
+
+Yeah. No veggies for you. Methodologies typically define periodization. Implicit
+in it is something along "the way we chunk things over time shouldn't change".
+In personal time management, it's often called timeboxing. Managers may talk
+about weekly, monthly, quarterly and yearly planning. It seems to me that we
+usually perfer to create a hierarchy of epochs with some logarithmic scale, with
+base between 2 and 4.
+
+Let's see how epochs look at base 4. We're starting at a day. 4^0 days = 1 day.
+Then there's the work week. If we work all the time, we're at 4^1 days plus one,
+five days. Or we've only got four effective days in a week, leaving us with 4^1
+= 4 days. A month is about 4 weeks ≅ 4^2 effective days. The quarter is a little
+off, with three months a quarter. Let's round that off. A quarter is 4^3 days.
+And the year is actually four quarters, 4^4 days. Each time we move up the
+scale, we multiply with approximately four.
+
+"But why? What's the value of that? Who the shit are you to say that your random
+smartass logarithm 4 hierarchy of epochs is sensible at all? I say we go for log
+𝛑! Hah!"
+
+Yeah. This is an optimization problem, really. Relevant considerations:
+
+1. Cost. How much worse is the current periodization scheme than the ideal
+   periodization scheme?
+2. Practicality. Will it be reasonable to work this way? Does my periodization
+   scheme mesh well with others?
+3. Time variation. How much will the utility of the periodization scheme change
+   over time?
+4. Cost of periodization change. How many people will I have to drag with me into
+   this new (and hopefully better) metasystem?
+5. Predictability. How simple is it to plan up ahead?
+
+Dear practical reader. You're probably laughing your ass off for the sillyness
+of this question. Dear theoretical reader. Using weeks and monts is what
+everyone else are doing. In my estimation, practicality (2.), cost of
+periodization change (4.) and predictability (5.) trump the possible
+suboptimality of the remaining points.
+
+There is so much value in having the periodization scheme set and rather
+changing what goes into different epochs, that we generally keep the
+periodization scheme unchanged. It's a static part of our planning system.
+
+What about agile? Scrum dedicates a substantial amount of attention to /process
+improvement/. The Scrum retrospective is a case of managed change. We set a
+static point of introspection on our agenda. We manage the process change
+actively, codifying the process change. By explicitly saying that this is the
+scrum retrospective, we allow team members to have a predictable point in the
+agenda dedicated to change. We can then write /one/ document with the changes
+we're going to make, and have /one/ set part of the next epoch when we discuss
+whether the changes were good.
+
+What about within a project? We can't set everything up front. The point is
+/what things *should* we set up front/. Optimization, again. A shared common
+understanding of goals is useful in most projects. What's a goal? Or rather,
+what is a good goal? I would say that a good goal helps us aim, and doesn't
+change all the time. A good goal is a somewhat stable target. We can aim for it
+for a while, and not have it move. Then, what is planning? In part, it's
+exploring the static-dynamic interaction we're going to have, and searching out
+the static parts. Because the static parts won't change (that much), and are
+usually good to know early.
+** Focus: increased efficiency through stabilization
+The world is quite complex. Lots of things can happen. We explain things as
+simple as we can, and then "the world usually isn't that simple." That really
+annoying voice. I'm about to race ahead, and something is saying "it's probably
+not that simple". Aaaah! And I just want to go ahead. Do. Work. More. Learn.
+Interact. "It's not that simple". Some times it is! Just shut up!
+
+And if I can finally chase that annoying voice off, I can get some work done. At
+last. Look down on the details and /act/. Make something happen. Get progress.
+See results.
+
+By pretending that the rest --- all the things I'm not going to consider --- are
+not going to change, I can make some small change more efficiently. But will it
+be the right change? I hope so. What makes it the right change or not? In large
+part, that depends on /where/ the focus has been. Have we considered the right
+thing? Or has important problems been put off somewhere because they're
+unpleasant? In that case, we may have a /real/ problem on our hands.
+
+Pick what's important. Pretend the rest is static. Pretend that the rest is as
+you think it is. Then shove it off to the back of your brain, somewhere. Assume
+that your brain is going to tell you if you need to reconsider some of it. Then
+work on what matters. And since you don't waste too many cycles on what doesn't
+matter, you're hopefully quite efficient.
+** Yin and yang: 
