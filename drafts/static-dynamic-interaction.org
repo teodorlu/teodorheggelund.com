@@ -1,0 +1,73 @@
+---
+title: Static-dynamic interaction
+author: Teodor Heggelund
+date: 2018-10-05
+---
+
+I have recognized a pattern within systems that seem to handle change well. I
+will explore the patterns from the angles I see, and see if I can identify some
+value.
+
+** Computer science: word confusion with immutable data structures
+Popularized by Facebook's React, immutable data structures has seen fresh wind
+in later years. Chris Okasaki's textbook [[https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures][Purely Functional Data Structures]] came
+out all the way back in 1999, so the topic is by no means a revolution. The gist
+of immutable data structures is simple:
+
+#+BEGIN_CENTER
+/In immutable data structures, the data structure is a value, not a reference/
+#+END_CENTER
+
+What's a value? And what's a reference? We're digging down to the fundamentals,
+now. I state:
+
+#+BEGIN_CENTER
+/A value is forever the same thing. The target of a reference can change./
+#+END_CENTER
+
+In other words, if you have a value, it's persistent. It doesn't suddenly
+disappear from under your nose. You can count on a value being the same the next
+time you look at it.
+
+#+BEGIN_QUOTE
+That sounds all nice, Teodor. It doesn't disappear! We like things that are
+solid that are stable. We like things stable! So, tell me the limits of your
+statement. Make some boundaries for me. When should we /not/ use a value? Why
+not use values all over the place?
+#+END_QUOTE
+
+We typically want some names to be references. We want to change what is behind
+the name. Take a Wikipedia page. I don't really mind that a Wikipedia page
+changes. I trust that it will change for the better. Or, should it change for
+the worse, that some trusted Wikipedia community member will revert it.
+
+#+BEGIN_CENTER
+/We typically want references to the "current best" version/
+#+END_CENTER
+
+"Best" by nature is a reference, because it is context dependent. And we need
+the context! We're really asking for context when we ask "best". It's not
+specific. The implicit part is the meaning "best, as of now". And "now" is a new
+reference. As I am writing this sentence, "now" is 2018-10-05 16:30:16. And
+/now/, now's already something else!
+
+Where does that leave us with the promised theme of "word confusion with
+immutable data structures"? When we're advocating for someone to make use of
+immutable data structures, we're not saying that they should go to Okasaki's
+textbook everywhere in the application. If we only use immutable data structures
+throughout the application we're writing, we can't have any references to
+"current" or "now". When writing a compiler, that's not really a problem,
+because a compiler usually has all its data up front. "Current best" doesn't
+need any qualification. We can just use "best", and that's enough.
+
+So why would we advocate for managing something that changes all the time with
+immutable data structures? Why would it be a good idea to use immutable data
+structures for something like a single-page web application, which changes all
+the time? Because we're implying "use immutable data structures for everything".
+We're wanting to say "use immutable data structures to implement a system where
+state changes are managed, so that we know what has changed and what has stayed
+the same". We wan't good state management by having a structured approach to the
+static-dynamic interaction in our application. And that usually means encoding
+all values as values, and keeping our references to a minimum. Reference up top,
+and immutability all the way down.
+** 
