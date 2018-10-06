@@ -255,3 +255,7 @@ stability is fluid, moving, negotiated. There is chaos nested within stability,
 and stability nested within chaos. Change and stability has been at the bottom
 of how we understand the universe for a long time.
 ** Conclusions, and the why
+How does your environment look? What are the invariants, what things don't
+change? What things will change? Give that thought some time. And perhaps, if
+you are diligent and considerate, you will create a stable system that can adapt
+to change.
