@@ -24,6 +24,8 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   to fifty years later! 
 - [[http://worrydream.com][Bret Victor]]'s work towards /giving content creators an immediate connection to
   what they're creating/.
+- [[https://www.dreamsongs.com][Dreamsongs by Richard P. Gabriel]] is the works of a designer. Wrote /Patterns
+  of Software/, an impressive book on software design.
 ** Technical tools
 - [[http://errbot.io/en/latest/#][Errbot]] is a framework for writing bots that can connect to chats like Campfire
   and Slack. Found through writings by [[http://tom.preston-werner.com][Tom Preston-Werner]].
