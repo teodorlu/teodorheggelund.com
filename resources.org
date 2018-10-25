@@ -11,9 +11,6 @@ I find valuable, things I don't want to get lost. Things I want to read again.
 - Stephen Diehl's [[http://dev.stephendiehl.com/hask/][What I Wish I Knew When Learning Haskell]] is a high-quality
   introduction to Haskell. Diehl has other well-written resources on his main
   [[http://www.stephendiehl.com/][web site]].
-- [[http://programming-motherfucker.com/become.html][Become a Programmer, Motherfucker]] is a series of books for learning software
-  engineering focused on practice. Some books are freely available on the web,
-  others are paid.
 - The [[http://www.pathname.com/fhs/][Filesystem Hierarchy Standard]] describes where things should be on Unix
   systems.
 - [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]] is a seminal MIT book on
@@ -26,9 +23,6 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   what they're creating/.
 - [[https://www.dreamsongs.com][Dreamsongs by Richard P. Gabriel]] is the works of a designer. Wrote /Patterns
   of Software/, an impressive book on software design.
-** Technical tools
-- [[http://errbot.io/en/latest/#][Errbot]] is a framework for writing bots that can connect to chats like Campfire
-  and Slack. Found through writings by [[http://tom.preston-werner.com][Tom Preston-Werner]].
 ** Uncategorized
 - [[http://paulgraham.com][Paul Graham]] has many interesting opinions on startups, lisp and life in
   general.
@@ -58,7 +52,6 @@ I find valuable, things I don't want to get lost. Things I want to read again.
 - [[http://danluu.com/][Dan Luu]] writes well about highly technical topics.
 - [[https://www.blaenkdenum.com/][Jorge Israel Peña]] has written a solid [[https://www.blaenkdenum.com/notes/clojure/][guide on Clojure]], and even [[https://www.blaenkdenum.com/reads/#wok][reads]]
   [[https://www.blaenkdenum.com/reads/#wor][Sanderson]]! Peña also uses [[https://jaspervdj.be/hakyll/][Hakyll]] for [[https://github.com/blaenk/blaenk.github.io][his quite beautiful website]].
-- [[http://funcool.github.io/clojurescript-unraveled/][Clojurescript Unraveled]] is a solid from-scratch introduction to Clojurescript.
 - [[https://www.ybrikman.com/][Yevgeniy Brikman]] has compiled a list of fantastic [[https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/][tech talks for programmers]]
   and made a good [[https://www.hello-startup.net/][introduction to start-ups for programmers]]. He has also written a
   quality guide on [[https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/][how to write good documentation]].
