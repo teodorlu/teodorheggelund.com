@@ -1,0 +1,48 @@
+---
+title: PRELIMINARY Indirection
+author: Teodor Heggelund
+date: 2018-06-16
+---
+
+Each layer of indirection is a costly opportunity for growth.
+
+By introducing indirection -- reference -- into the system, we add an axis of
+flexibility. At the same time, each axis potentially multiplies the complexity
+of the overall model.
+
+All foundational learning predicates new layers of indirection, yet they are
+severely costly to make.
+
+The design of our cognitive layers of indirection has traditionally been the
+responsibility of philosopher. Well, not really, but the design of the
+description of our layers of indirection.
+
+Layers of indirection can be essential to seeing truth, and concealing
+falsehood. Thinking too abstractly about something can merely insulate from what
+matters, whereas thinking locally about a global systemic problem makes us work
+in the wrong direction.
+
+My current best bet is working locally, aligned globally. Yeah, so this is
+essentially just saying "do both". Take the responsibility of both attitudes.
+That's potentially problematic. It can be hard. It does not give an easy path.
+Yet, I have a hard time seeing that it can be the wrong path. It provides a
+balance, an aim, a target so that one may start at the global or the local, and
+even if the beginning is not optimal, the end may be. It provides a direction.
+
+-----------------
+
+Phenomenology is another layer of indirection, which applies to /everything/.
+That's really costly!
+
+-----------------
+
+2018-08-28 addendum.
+
+Is there a difference -- mathematically -- between a layer of indirection and a
+boundary? Are those two not the same? And if so, when are they not the same? Is
+there a counter-example?
+
+I've recently been thinking a lot about boundaries. I even published a post
+about it. /Negotiating boundaries/, that is. Is this really something else? Or
+just the same in a different wrapping? I'm going to re-read the original, and
+reconsider.
