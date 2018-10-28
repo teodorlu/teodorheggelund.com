@@ -25,7 +25,7 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   of Software/, an impressive book on software design.
 ** Uncategorized
 - [[http://paulgraham.com][Paul Graham]] has many interesting opinions on startups, lisp and life in
-  general.
+  general. Paul Graham has written /On Lisp/, which is [[http://unintelligible.org/onlisp/onlisp.html][available on-line]].
 - [[https://waitbutwhy.com/][Wait but why]] presents topics in-depth in the format of a blog.
 - [[https://www.jwz.org/about.html][Jamie Zawinski]] was a principal part of the team that made Mozilla.
 - [[http://www.catb.org/esr/][Eric S. Raymond]] has made central contributions to Unix and the Internet, and
