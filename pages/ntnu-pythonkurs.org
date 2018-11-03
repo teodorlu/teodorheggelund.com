@@ -8,6 +8,9 @@ date: 2018-11-05
 
 Praktisk informasjon følger. Vel møtt!
 
+** Hva trenger jeg å gjøre før kurset?
+Vennligst installer Anaconda Python 3.7 før kurset begynner. Nedlastingen er
+stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, se [[Ressurser]].
 ** Agenda
 - *Intro*. Hvorfor er vi her?
 - *Del 1: Python-programmering med Jupyter Notebooks*. Vi lærer å kjøre kode i
@@ -22,9 +25,11 @@ Praktisk informasjon følger. Vel møtt!
 - *Finale*. Hvor går veien videre?
 ** Ressurser
 - Nedlasting av Python-distribusjon: [[https://www.anaconda.com/download/][Anaconda Python 3.7 64-bit]]. Lokal
-  installasjon av Anaconda gir best brukeropplevelse. Nødløsning for de som ikke
-  for installert Anaconda er mulig med [[https://mybinder.org/v2/gh/teodorlu/ntnu.kt/master][Binder]] (kun Jupyter Notebook, ikke
-  Jupyter Lab).
+  installasjon av Anaconda gir best brukeropplevelse. Alt gikk bra hvis du kan starte
+  *Jupyter Lab*. 
+  - Nødløsning for de som ikke
+    for installert Anaconda er mulig med [[https://mybinder.org/v2/gh/teodorlu/ntnu.kt/master][Binder]] (kun Jupyter Notebook, ikke
+    Jupyter Lab).
 - [[https://purelogicno-my.sharepoint.com/:p:/r/personal/th_purelogic_no/_layouts/15/Doc.aspx?sourcedoc={1036fd9e-36fd-4976-b7dd-597fa5b514e4}&action=default][Slides brukt under kurs]] (under arbeid).
 - Materell (Notebooks, python-moduler) er tilgjengelig  på [[https://github.com/ntnu-kt/ntnu.kt][Github]] (under arbeid). Min intensjon
   er at KT tar over eierskap.
