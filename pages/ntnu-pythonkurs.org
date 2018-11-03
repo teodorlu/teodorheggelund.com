@@ -1,0 +1,27 @@
+---
+title: Python-kurs for Konstruksjonsteknikk på NTNU, 05. november 2018
+author: Teodor Heggelund
+date: 2018-11-05
+---
+
+Praktisk informasjon følger. Vel møtt!
+
+** Agenda
+- *Intro*. Hvorfor er vi her?
+- *Del 1: Python-programmering med Jupyter Notebooks*. Vi lærer å kjøre kode i
+  Jupyter Notebooks, og går gjennom grunnleggende Python.
+- *Del 2: Vitenskaplig programmering med Python.* Python fungerer godt for
+  vitenskaplig programmering fordi Python har et svært godt sett med
+  tredjepartsbiblioteker. Etter at vi har sett hvordan vi kan få tilgang til
+  disse, og hvordan vi bruker et utvalg.
+- *Del 3: Samhandling med Jupyter Notebooks.* Når bør vi dele en notebook? Når
+  bør vi dele en pakke? Hvordan pakkes Python-kode? Hvordan installerer vi en
+  pakke lokalt? Hvordan bruker vi en egen pakke i en Notebook?
+- *Finale*. Hvor går veien videre?
+** Ressurser
+- Nedlasting av Python-distribusjon: [[https://www.anaconda.com/download/][Anaconda Python 3.7 64-bit]]
+- [[https://purelogicno-my.sharepoint.com/:p:/r/personal/th_purelogic_no/_layouts/15/Doc.aspx?sourcedoc={1036fd9e-36fd-4976-b7dd-597fa5b514e4}&action=default][Slides brukt under kurs]]
+- Materell (Notebooks, python-moduler) er tilgjengelig  på [[https://github.com/ntnu-kt/ntnu.kt][Github]]. Min intensjon
+  er at KT tar over eierskap.
+- Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]]. Min intensjon er at KT tar over
+  eierskap.
