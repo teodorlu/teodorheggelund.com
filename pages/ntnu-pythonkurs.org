@@ -23,7 +23,7 @@ stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, s
   bør vi dele en pakke? Hvordan pakkes Python-kode? Hvordan installerer vi en
   pakke lokalt? Hvordan bruker vi en egen pakke i en Notebook?
 - *Finale*. Hvor går veien videre?
-** Ressurser
+** Kursmateriell
 - Nedlasting av Python-distribusjon: [[https://www.anaconda.com/download/][Anaconda Python 3.7 64-bit]]. Lokal
   installasjon av Anaconda gir best brukeropplevelse. Alt gikk bra hvis du kan starte
   *Jupyter Lab*. 
