@@ -10,7 +10,7 @@ Praktisk informasjon følger. Vel møtt!
 
 ** Hva trenger jeg å gjøre før kurset?
 Vennligst installer Anaconda Python 3.7 før kurset begynner. Nedlastingen er
-stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, se [[Ressurser]].
+stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, se [[Kursmateriell]].
 ** Agenda
 - *Intro*. Hvorfor er vi her?
 - *Del 1: Python-programmering med Jupyter Notebooks*. Vi lærer å kjøre kode i
