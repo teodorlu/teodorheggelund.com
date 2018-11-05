@@ -35,4 +35,3 @@ stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, s
   er at KT tar over eierskap.
 - Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]] (under arbeid). Min intensjon er at KT tar over
   eierskap.
-# https://purelogicno-my.sharepoint.com/:p:/r/personal/th_purelogic_no/_layouts/15/Doc.aspx?sourcedoc={1036fd9e-36fd-4976-b7dd-597fa5b514e4}&action=default
