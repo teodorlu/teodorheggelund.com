@@ -30,7 +30,7 @@ stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, s
   - Nødløsning for de som ikke
     for installert Anaconda er mulig med [[https://mybinder.org/v2/gh/teodorlu/ntnu.kt/master][Binder]] (kun Jupyter Notebook, ikke
     Jupyter Lab).
-- Slides brukt under kurs (under arbeid, link kommer). 
+- [[https://purelogicno-my.sharepoint.com/:p:/r/personal/th_purelogic_no/_layouts/15/Doc.aspx?sourcedoc={1036fd9e-36fd-4976-b7dd-597fa5b514e4}&action=default][Slides brukt under kurs]]
 - Materell (Notebooks, python-moduler) er tilgjengelig  på [[https://github.com/ntnu-kt/ntnu.kt][Github]] (under arbeid). Min intensjon
   er at KT tar over eierskap.
 - Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]] (under arbeid). Min intensjon er at KT tar over
