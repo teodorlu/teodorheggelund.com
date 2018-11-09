@@ -43,8 +43,8 @@ gjennom alt som er å lære.
 
 Jeg anbefaler derfor for å få godt utbytte av kurset:
 
-/Last ned notebooks fra Github se Kursmateriell, gå gjennom slides og prøv å
+/Last ned notebooks fra Github (se Kursmateriell), gå gjennom slides og prøv å
 kjøre kode selv for å se om resultatet blir som du forventer./
 
 Enkleste måte å kjøre koden på er å lage en blank Notebook selv og copy-paste
-fra Github. Å bruke Git direkte er også en mulighet.
+fra Github.
