@@ -33,8 +33,9 @@ stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, s
 - Slides brukt under kurs fra [[https://purelogicno-my.sharepoint.com/:p:/g/personal/th_purelogic_no/EZ79NhD9NnZJt91Zf6W1FOQBcD63mzHTlKPfAsDXfXi11g][Office Online]] eller som [[../static/kurs_2018-11-05_slides.pdf][PDF]]
 - Materell (Notebooks, python-moduler) er tilgjengelig  på [[https://github.com/ntnu-kt/ntnu.kt][Github]]. Min intensjon
   er at KT tar over eierskap.
-- Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]] (under arbeid). Min intensjon er at KT tar over
-  eierskap.
+- Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]]. Min intensjon er at KT tar over
+  eierskap. Innholdet i pakken er foreløpig kun for demonstrasjon av mulig
+  infrastruktur.
 ** Hvordan bør jeg følge opp etter kurset for godt læringsutbytte?
 Jeg har tro på læring i eget tempo. Da kan man bruke tid der man trenger, og
 stille spørsmålene som trengs underveis. En felles gjennomgang blir aldri helt
