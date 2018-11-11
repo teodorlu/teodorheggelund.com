@@ -11,7 +11,7 @@ set of rules? In order to evaluate the rules, we need to see how well they work.
 What are their utility? What is their role when dynamically interacting with the
 real world?
 
-** Beginnings, and the why
+** From mere rules to understanding why
 Without rules, we are in free fall. There is no solid ground. There is no
 reference. Twisting and turning, our center cannot hold.
 
