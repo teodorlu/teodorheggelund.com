@@ -276,9 +276,9 @@ Or do you want to thread the waters on the edge of your capacity?
 MBTI can help you perceive where you have something to learn from others.
 Where you can benefit from paying attention to how others act; where they may do
 things in a way superior to your own.
+
+Thanks to Lisa for giving constructive feedback on this text.
 ** References                                                     :noexport:
 [fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
 
 [fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to criticism-specific section.
-
-Thanks to Lisa for feedback on this text.
