@@ -287,3 +287,5 @@ Takeaways:
 - Scale can help you identify the static parts. If something isn't stable, try
   move up one level of scale.
 - By identifying stable parts, we can enable moving faster overall.
+
+Thanks to Remi and Lisa for feedback on this text.
