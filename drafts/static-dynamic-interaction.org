@@ -4,24 +4,31 @@ author: Teodor Heggelund
 date: 2018-10-05
 ---
 
-Keywords: /change/, /stability/, /computer-science/, /planning/
+Keywords: /philosophy/, /change/, /stability/, /computer-science/, /planning/
 
-I have recognized a pattern within systems that seem to handle change well. I
-will explore the patterns from the angles I see, and see if I can identify some
-value.
+Is structure merely standardization? Is something "structured" when there are a
+set of rules? In order to evaluate the rules, we need to see how well they work.
+What are their utility? What is their role when dynamically interacting with the
+real world?
 
 ** Beginnings, and the why
-Why bother? Such a simple question oft ignored.
+Without rules, we are in free fall. There is no solid ground. There is no
+reference. Twisting and turning, our center cannot hold.
 
-Free fall. No solid ground. No reference. Twisting and turning, the center
-cannot hold.
-
-Stasis. No change. A block of ice, eternal. No matter the force mashing against
-it, it will not move. It will not move.
+When there is nothing but rules, we are in stasis. There can be no change. Only
+a block of ice, eternal. No matter the force mashing against it, it will not
+move. It will not move.
 
 We want neither extreme. Neither free fall nor stasis. We cannot work when
 everything is in unpredictable movement, and we improve that which cannot
 change. We need both. And we want the best of both.
+
+By introducing some stability into an unpredictable environment, we can improve
+its adaptability. By letting a system evolve, get unstuck, it can move into a
+state that is more stable.
+
+Let us consider some specific examples, and make static-dynamic interaction
+viscerally real.
 ** Computer science: word confusion with immutable data structures
 Popularized by Facebook's React, immutable data structures has seen fresh wind
 in later years. Chris Okasaki's textbook [[https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures][Purely Functional Data Structures]] came
@@ -142,7 +149,7 @@ Yeah. This is an optimization problem, really. Relevant considerations:
 5. Predictability. How simple is it to plan up ahead?
 
 Dear practical reader. You're probably laughing your ass off for the sillyness
-of this question. Dear theoretical reader. Using weeks and monts is what
+of this question. Dear theoretical reader. Using weeks and months is what
 everyone else are doing. In my estimation, practicality (2.), cost of
 periodization change (4.) and predictability (5.) trump the possible
 suboptimality of the remaining points.
@@ -224,9 +231,9 @@ little boat. We don't see what lies in the deep. There may be black creatures
 waiting, ready to pull us down.
 
 We dive. Down. Down. Down. Darkness surrounds us. There! The glimmer. We see
-light reflected. Small. Golden. Our hard beats harder. We go up. Catch some air,
-move towards where it was, if memory serves us right. Down again. Down, down
-down. Where is it? We saw it! It was so clear! We swim back a few strokes.
+light reflected. Small. Golden. Our heart beats harder. We go up. Catch some
+air, move towards where it was, if memory serves us right. Down again. Down,
+down down. Where is it? We saw it! It was so clear! We swim back a few strokes.
 Turning. Wait, there! In the corner of our eye, it blinked. We close the
 distance, and feel the smooth surface. It's so small. Fits well within our hand.
 
@@ -236,7 +243,7 @@ a black. The black moves steadily with the rhythm of our boat.
 
 It is time to take the compass back home.
 
-------
+---
 
 We are living on islands of stability, surrounded by oceans of movement. There
 is so much movement that we cannot keep track of it. It is dark to our eyes. We
@@ -254,8 +261,29 @@ Yin and Yang symbolize change and stability. The boundary between change and
 stability is fluid, moving, negotiated. There is chaos nested within stability,
 and stability nested within chaos. Change and stability has been at the bottom
 of how we understand the universe for a long time.
-** Conclusions, and the why
-How does your environment look? What are the invariants, what things don't
-change? What things will change? Give that thought some time. And perhaps, if
-you are diligent and considerate, you will create a stable system that can adapt
-to change.
+** Why? Utility.
+Finding stability is not making a set of static rules. Finding stability is
+about identifying how the moving parts reasonably can be separated from the
+solid parts. When the solid parts are identified, they can be standardized, and
+we predictably move faster. When the dynamic parts are identified, we can focus
+on them.
+
+/What if you're wrong?/
+
+When I'm wrong, I will strive to admit it, and correct whatever wrongdoing I
+have made. If I set static-dynamic boundaries that miss the mark, I will work to
+correct them. Of course, hitting earlier is better, especially when working with
+multiple people, where more coordination is required. At the same time, the
+likelihood of hitting the mark the first time is low.
+
+I propose that the best we can do is to make a best-effort of identifying the
+static-dynamic boundaries, and move the boundaries when that is needed.
+Hopefully, by building a model that incorporates dynamism, the model will have
+to change less frequently than a dogmatic all-static model.
+
+Takeaways:
+
+- Identify static parts and moving parts over mere "standardization".
+- Scale can help you identify the static parts. If something isn't stable, try
+  move up one level of scale.
+- By identifying stable parts, we can enable moving faster overall.
