@@ -280,3 +280,5 @@ things in a way superior to your own.
 [fn:16personalities]: [[https://www.16personalities.com][16 Personalities]] offers a free test to determine your Myers Briggs Type Indicator, descriptions of 16 types predicted by the test, and an overview on the underlying theory.
 
 [fn:wikipedia-mbti-criticism]: TODO link. Quote from overview, link to criticism-specific section.
+
+Thanks to Lisa for feedback on this text.
