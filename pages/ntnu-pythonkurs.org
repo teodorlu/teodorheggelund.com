@@ -36,6 +36,10 @@ stor (500 MB) og tar etterpå en tid å installere (ca 10 minutter). For link, s
 - Pakke brukt i del tre er publisert til [[https://pypi.org/project/ntnu.kt/][Pypi]]. Min intensjon er at KT tar over
   eierskap. Innholdet i pakken er foreløpig kun for demonstrasjon av mulig
   infrastruktur.
+
+For de som er kjent med Matlab, kan jeg anbefale [[https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf][migrasjonsguiden fra Matlab til
+Python utgitt av Enthought]] (PDF) ([[https://www.enthought.com/white-paper-matlab-to-python/][alternativ link]]). Enthought er blant de som
+lager Scipy.
 ** Hvordan bør jeg følge opp etter kurset for godt læringsutbytte?
 Jeg har tro på læring i eget tempo. Da kan man bruke tid der man trenger, og
 stoppe opp når man har spørsmål. En felles gjennomgang blir aldri helt det
