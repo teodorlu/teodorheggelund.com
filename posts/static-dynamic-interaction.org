@@ -1,7 +1,7 @@
 ---
 title: Static-dynamic interaction
 author: Teodor Heggelund
-date: 2018-10-05
+date: 2018-12-19
 ---
 
 Keywords: /philosophy/, /change/, /stability/, /computer-science/, /planning/
