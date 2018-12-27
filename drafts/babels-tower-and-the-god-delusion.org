@@ -1,0 +1,13 @@
+---
+title: Babel's tower in technology
+author: Teodor Heggelund
+date: 2018-12-27
+---
+
+You're probably wondering what biblical stories have to do with technology
+development. I'm going to start there.
+
+The scope of an application expands until it is unusable. The mud grows in all
+directions. More material is added. More mud is built to ensure a proper
+foundation of the previous mud. And since the mud gradually collapses, even more
+in-between mud shows up.
