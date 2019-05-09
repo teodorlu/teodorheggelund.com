@@ -1,0 +1,42 @@
+---
+title: Clojure's response to monadic error handling is data-driven design
+author: Teodor Heggelund
+date: 2019-05-08
+---
+
+Elm:
+
+#+begin_src elm
+  process start = start
+                  |> firstStep
+                  |> Either.andThen secondStep
+                  |> Either.andThen thirdStep
+#+end_src
+
+Clojure:
+
+1. Model your pipeline as pure data
+2. Create an interpreter over that data
+
+#+begin_src clojure
+  (def pipeline
+    {:steps [first-step second-step third-step]})
+
+  ;; interpret is essentially an implementation of andThen. But since we're writing
+  ;; it ourselves, we can expand it if we need to.
+  (defn interpret [pipeline input-data]
+    (loop [data input-data
+           steps (:steps pipeline)]
+      (if (seq ))
+      (let [next ()]
+        ...)))
+#+end_src
+
+So I couldn't improvise this up in Clojure -- it turned out to be a tad more
+complicated than what I was thinking. But the crux of the problem is the same:
+Model (as data) a series of steps, and a common error method. Make each step
+fail in the same way, or continue. Then create a way to run all the steps.
+
+The principle is simple: model what you can as data. If you can model the
+pipeline, and the error methods as data, it's simple to expand. Because the data
+model is minimal.
