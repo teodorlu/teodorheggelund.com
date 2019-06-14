@@ -92,7 +92,7 @@ main = hakyll $ do
 -- describeLanguage :: Text -> MString
 describeLanguage lang =
   case lang of
-    "no" -> Just " (Norwegian)"
+    -- "no" -> Just " (Norwegian)"
     _ -> Nothing
 
 languageContext :: Context a
