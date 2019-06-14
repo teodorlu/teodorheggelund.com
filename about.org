@@ -1,8 +1,8 @@
 ---
 title: Om meg
 ---
-Hei!
+Hello!
 ** Kontakt
-Ta kontakt på [[mailto:teodor@teodorheggelund.com][E-post]].
-** Denne siden
-Du finner kildekoden for denne nettsiden på [[https://github.com/teodorlu/teodorheggelund.com][Github]].
+Contact me with [[mailto:teodor@teodorheggelund.com][E-mail]].
+** This website
+You'll find the source code for this site on [[https://github.com/teodorlu/teodorheggelund.com][Github]].
