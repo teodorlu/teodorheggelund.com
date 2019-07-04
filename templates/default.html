@@ -29,7 +29,11 @@
 
                 <hr />
 
-                Got a comment? Use the arrow in the upper-right corner to make a
+                Got a comment? Press
+
+                <button id="load-comment-system">Load comment system</button>, then
+
+                use the arrow in the upper-right corner to make a
                 general note. Or mark text to make an annotation to just that text.
 
                 More information on the commentary system is available at <a href="/posts/commentary-with-hypothesis.html">Commentary with Hypothesis</a>.
@@ -46,11 +50,22 @@
             </p>
         </div>
 
-        <!-- Load Hypothesis -->
         <script type="application/json" class="js-hypothesis-config">
-         {"showHighlights": false}
+            {"showHighlights": false}
         </script>
-        <script src="https://hypothes.is/embed.js" async></script>
+        <div id="hypothesis-placeholder"></div>
+        <script type="text/javascript" async>
+        placeholder = document.querySelector("#hypothesis-placeholder");
+        activation = document.querySelector("#load-comment-system");
 
+        s = document.createElement("script");
+        s.setAttribute("async", "async");
+        s.setAttribute("src", "https://hypothes.is/embed.js");
+
+        activation.onclick = function () {
+            placeholder.appendChild(s);
+        };
+
+        </script>
     </body>
 </html>
