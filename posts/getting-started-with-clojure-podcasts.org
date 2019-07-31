@@ -127,7 +127,9 @@ the experts have to say?
 ...
 
 That's all the podcasts I've got for now! I hope you find this useful. If you
-have any favorites, please follow up in the [[https://clojureverse.org/t/a-guided-tour-for-the-clojure-podcasting-ecosystem/4634][ClojureVerse discussion thread]].
+have any favorites, please follow up in the [[https://clojureverse.org/t/a-guided-tour-for-the-clojure-podcasting-ecosystem/4634][ClojureVerse discussion thread]]. (You
+can use Hypothesis too, if you'd like, but I figure that a forum thread would be
+more inviting).
 
 Thanks for [[https://www.lisagraham.net/][Lisa]] for reviewing this article!
 
