@@ -1,0 +1,133 @@
+---
+title: A guided tour for the Clojure podcasting ecosystem
+author: Teodor Heggelund
+date: 2019-07-31
+---
+
+So you're learning Clojure, and as is common, you find the learning journey
+rewarding but hard. How do we do things? When there are no classes, what do we
+do? Clojure is optimized for expert usage, and the beginner's journey can be
+tough. In that journey, I've found the podcasting ecosystem to be of great
+value.
+
+I've gotten a lot of value out of the Clojure podcasts that's out there, so I'd
+like to share a selections of the episodes that have struck a chord with me. I'm
+going to highlight just a single episode per show, then you be the judge.
+
+Let's get to it!
+
+** [[http://blog.cognitect.com/cognicast/106][Cognicast #106]]: Michael Nygard
+[[http://blog.cognitect.com/cognicast][Cognicast]] is Cognitect's own podcast. I've chosen episode 106, where Craig
+Andera interviews [[https://www.michaelnygard.com/][Michael Nygard]], both at the time working at Cognitect. The
+talk is mostly about large-scale software design, which Nygard has covered
+extensively through his blog series [[http://blog.cognitect.com/blog/?tag=NewNormal+Series][The New Normal]]. I find Craig Andera to be a
+terrific interviewer. He's asking the right questions, and is genuinely
+interested in the answers.
+
+If you're using Clojure, you'll run into the Cognicast sooner or later. The
+guests are generally experts in their fields, and it's interesting to hear the
+perspective from the people "inside", building Clojure itself.
+
+*Selling point*: Listen in on the insider's perspective: hear from the people
+who build Clojure!
+
+*Listening status*: I've listened to about half the episodes. Latest per
+2019-07-31 is #148, but there haven't been any new episodes in 2019 so far.
+
+** [[https://www.therepl.net/episodes/13/][The REPL #13]]: High performance numerics with Chris Nuernberger
+/[[https://www.therepl.net/][The REPL]]/ is Daniel Compton's one-man project. Chris Nuernberger has built
+several high-performance Clojure libraries for numerics. Before looking into
+Nuernberger work, I was under the impression that the traditional language
+rankings were indicative of performance; like "C is faster than Java because of
+this example". That's an approach that might not help you reach the right
+conclusion in Clojure. Why not use use Clojure like an [[https://github.com/techascent/tvm-clj][interactive, flexible
+compiler]]?
+
+Daniel Compton has a very relaxed interviewing style, asks good questions
+and is a good listener. Perhaps not surprising, since his guests are usually
+very interesting ...
+
+*Selling point*: A weekly newsletter is released under The REPL brand,
+providing information on videos released, conferences that are open to
+registration, and new libraries that are worth checking out.
+
+*Listening status*: I've listened to every episode, and keep up with each new
+release! Since The REPL was started in 2018, 27 podcasts have been released, and
+they keep coming with a steady pace.
+
+** Thoughts on functional programming: [[https://lispcast.com/the-3-levels-of-functional-thinking/][The 3 Levels of Functional Thinking]]
+Eric Normand's /[[https://lispcast.com/category/podcast/][Thoughts on functional programming]]/ is structured a bit
+differently than the others: instead of guests, there are bite-sized nuggets of
+knowledge to be had/found. Rather than a conversation, the topics are presented
+through a monologue. /The 3 Levels of Functional Thinking/ is about a
+progression of skill for a functional programmer.
+
+Eric Normand is a good teacher. He covers important concepts with simplicity. It
+was through his guide to [[https://purelyfunctional.tv/guide/clojure-concurrency/][concurrency in Clojure]] that exposed me to Clojure's
+concurrency primitives other than atoms.
+
+*Selling point*: Learn a bite-sized piece of functional programming
+ prowess on a 15 minute transit.
+
+*Listening status*: I just discovered the podcast, so I've only listened to the
+ fifteen or so latest episodes. Looking forward to future commute opportunities!
+
+** [[https://soundcloud.com/defn-771544745/41-timothy-baldridge-aka-halgari][defn #41]]: Timothy Baldridge aka @halgari
+In the /[[https://soundcloud.com/defn-771544745/tracks][defn podcast]]/, Vilay and Ray invite guests for a casual chat on Sundays.
+With Timothy Baldridge, I felt that the conversation flowed especially well.
+Timothy Baldridge made key contributions to core.async, and has a
+perspective on language design that on good days rivals Rich Hickey's.
+
+/defn/ is by far the most casual, conversational of the Clojure podcasts
+featured here. Definitely not feeling, scripted, prepare to be surprised.
+
+*Selling point*: Why so serious? Get a laugh!
+
+*Listening status*: I've listened to about half of the now 51 episodes.
+
+** [[https://clojuredesign.club/episode/014-fiddle-with-the-repl/][Functional design in Clojure #14]]: Fiddle with the REPL
+In /[[https://clojuredesign.club/][Functional Design in Clojure]]/, hosts Nate Jones and Christoph Naumann
+discuss hands-on software problems with the Clojure approach. In episode 14, the
+focus is on the REPL workflow. The tone is conversational, yet the topic is
+focused, and we really get to follow the thoughts of the host. This might be
+particularly suited to new Clojurians who aren't used to using the REPL actively
+in development.
+
+As a newcomer to the "Clojure approach to solving problems", there are lots of
+questions. /Functional design in Cloure/ gives a nicely paced introduction to
+how to think and work in the Clojure way. In that regard, it's similar to Eric
+Normand's work, but /Functional design/'s approach is easier to get started
+with, and closer to the real problems.
+
+*Selling point*: Get a hand-curated sequence of functional level-ups
+that build from the ground up.
+
+*Listening status*: I've listened to episodes 1 through 24. They are released at
+a breakneck pace of one per week. I will definitely be catching up!
+
+** [[https://soundcloud.com/user-959992602/s1-e4-state-with-russ-olsen][ClojureScript podcast S1E4]]: State with Russ Olsen, author of /Getting Clojure/
+In the /[[https://clojurescriptpodcast.com/][ClojureScript podcast]]/, host Jacek Shae, creator of on-line courses for
+learning [[https://www.learnreagent.com][Reagent]] and [[https://www.learnreframe.com/][Re-frame]] discusses various aspects of ClojureScript
+programming with prominent community members. Russ Olsen had the honor of
+explaining Clojure through episodes 2, 3 and 4, focusing on data, code and
+state. In episode 4 on state, Olsen gives a ground-up explanation of how state
+should be handled with Clojure, and why we prefer to avoid global mutable state.
+
+Getting started with Clojure can be a challenge, and as of yet, there isn't much
+material available for learning to use ClojureScript. It's not obvious what
+REPL-driven development means when the browser is involved. Why not hear what
+the experts have to say?
+
+*Selling point*: Get introduced to key concepts from the ClojureScript
+ ecosystem, explained by key players.
+
+*Listening status*: I've listened to all the episodes of season 1 (9 in total),
+ and I eagerly await season 2.
+
+...
+
+That's all the podcasts I've got for now! I hope you find this useful. If you
+have any favorites, please follow up in the ClojureVerse thread for this
+subject.
+
+Teodor
