@@ -130,4 +130,6 @@ That's all the podcasts I've got for now! I hope you find this useful. If you
 have any favorites, please follow up in the ClojureVerse thread for this
 subject.
 
+Thanks for [[https://www.lisagraham.net/][Lisa]] for reviewing this article!
+
 Teodor
