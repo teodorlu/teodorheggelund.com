@@ -2,7 +2,7 @@
 title: About me
 ---
 Hello!
-** Kontakt
-Contact me with [[mailto:teodor@teodorheggelund.com][E-mail]].
+** Contact
+Contact me at [[mailto:teodor@teodorheggelund.com][teodor@teodorheggelund.com]].
 ** This website
 You'll find the source code for this site on [[https://github.com/teodorlu/teodorheggelund.com][Github]].
