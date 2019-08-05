@@ -28,8 +28,8 @@ If you're using Clojure, you'll run into the Cognicast sooner or later. The
 guests are generally experts in their fields, and it's interesting to hear the
 perspective from the people "inside", building Clojure itself.
 
-*Selling point*: Listen in on the insider's perspective: hear from the people
-who build Clojure!
+*Selling point*: Tune in to the insider's perspective: hear from the people that
+build Clojure!
 
 *Listening status*: I've listened to about half the episodes. Latest per
 2019-07-31 is #148, but there haven't been any new episodes in 2019 so far.
