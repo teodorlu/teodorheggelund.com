@@ -8,6 +8,15 @@ available on the Internet.
 Much of this content is related to [[https://kidsakoder.no/kodeklubb/oslo/][Oslo Code Club]]. Oslo Code Club teaches kids
 and young adults to code. I have taken part in course planning and creation,
 guided course nights and written tasks.
+** Hotload: Code Python live
+Hotload ([[https://github.com/teodorlu/hotload][Github]], [[https://clojureverse.org/t/announcing-hotload-code-python-like-its-clojure/4402][release announcement]]) enables you to develop Python code from
+within your application, rather than from the outside. The development flow
+is inspired by [[https://clojure.org/guides/repl/annex_community_resources][Clojure's REPL-driven development]].
+
+Hotload is all about response times. I want to drastically lower the effort of
+seeing the result of running new code. We're now at a keystroke (ctrl+s) and a
+few milliseconds wait time. For the small projects I've been working on, the
+code is reloaded by the time the next frame is ready to be shown on the screen.
 ** Computational Mechanics (Norwegian)
 Masteroppgaven min handlet om hvordan materialer oppfører seg på liten skala,
 titulert "Finite element implementation of lower-order strain gradient
@@ -65,7 +74,7 @@ erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje 
   mengdetrenging i å lage funksjoner.
 - I [[http://oppgaver.kidsakoder.no/elm/10_fraktaler/10_fraktaler.html][Fraktaler]] definerer vi hva en fraktal er, og lærer å tegne våre egne. For å
   få til det, må vi innføre ~map~ og ~concat~ -- monadisk oppførsel for lister
-** Python (Norwegian)
+** Lecture notes: Introduction to Python (Norwegian)
 Introduksjonskurs i Python med Alexander Perry for lærere og kolleger.
 [[https://teodorlu.github.io/python-intro/][Materellet er åpent tilgjengelig]].
 ** ComputerCraft (Norwegian)
