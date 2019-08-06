@@ -1,14 +1,14 @@
 ---
-title: Åpne prosjekter
+title: Freely available projects
 ---
 
-Dette er en oversikt over ressurser jeg har laget som ligger åpent tilgjengelig
-på nett.
+This is an overview over projects I've taken part in that are now freely
+available on the Internet.
 
-Mye er relatert til [[https://kidsakoder.no/kodeklubb/oslo/][Kodeklubben Oslo]]. Kodeklubben Oslo er et gratis tilbud for
-barn og unge som vil lære programmering. Jeg har planlagt, gjennomført og
-veiledet kurs, samt skrevet oppgaver.
-** Beregningsmekanikk
+Much of this content is related to [[https://kidsakoder.no/kodeklubb/oslo/][Oslo Code Club]]. Oslo Code Club teaches kids
+and young adults to code. I have taken part in course planning and creation,
+guided course nights and written tasks.
+** Computational Mechanics (Norwegian)
 Masteroppgaven min handlet om hvordan materialer oppfører seg på liten skala,
 titulert "Finite element implementation of lower-order strain gradient
 plasticity in Abaqus".
@@ -32,7 +32,7 @@ til å predikere oppførsel mer nøyaktig.
 
 I masteroppgaven min utforsker jeg hvordan vi kan lage modeller som tar hensyn
 til gradientplastisk teori. [[./static/heggelund15.pdf][Teksten er tilgjengelig på engelsk]].
-** Elm
+** Elm (Norwegian)
 Jeg tok initiativ til Kodeklubb i Elm i 2017. Erfaringer og anbefaling til bruk
 er samlet i en [[./static/kodeklubben-kursplan-elm.pdf][kursplan]]. Oppgavene dekker 10 kurskvelder, der hver kurskveld
 varer i halvannen time.
@@ -65,10 +65,10 @@ erfaring med programmering var [[https://scratch.mit.edu][Scratch]], og kanskje 
   mengdetrenging i å lage funksjoner.
 - I [[http://oppgaver.kidsakoder.no/elm/10_fraktaler/10_fraktaler.html][Fraktaler]] definerer vi hva en fraktal er, og lærer å tegne våre egne. For å
   få til det, må vi innføre ~map~ og ~concat~ -- monadisk oppførsel for lister
-** Python
+** Python (Norwegian)
 Introduksjonskurs i Python med Alexander Perry for lærere og kolleger.
 [[https://teodorlu.github.io/python-intro/][Materellet er åpent tilgjengelig]].
-** ComputerCraft
+** ComputerCraft (Norwegian)
 ComputerCraft lar deg programmere dine egne objekter i Minecraft. Du får nye
 blokker du kan bruke, deriblant nettopp en /Computer/.
 
