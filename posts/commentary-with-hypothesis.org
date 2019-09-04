@@ -2,6 +2,7 @@
 title: Commentary with Hypothesis
 author: Teodor Heggelund
 date: 2018-05-29
+modified-date: 2019-09-04
 ---
 
 [[http://web.hypothes.is/][Hypothesis]] may be able to provide proper discussion for any web site. Sounds
