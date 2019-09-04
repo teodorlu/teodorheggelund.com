@@ -43,15 +43,15 @@ make notes/? I tend to not bother with commenting on what others publish on the
 Internet for this exact reason. Here's where Hypothesis comes in. I will state
 this about Hypothesis:
 
-- /Hypothesis is the proper semantics for commentary./ Comments are not sent
-  away into the ether, never to return. You can organize them all, centrally.
-  You can edit your own comments. You can search in them.
+- /Hypothesis facilitates proper semantics for commentary./ Comments are not
+  sent away into the ether, never to return. You can organize them all,
+  centrally. You can edit your own comments. You can search in them.
 - /Hypothesis is not owned by the site you visit./ Facebook and Google may own
   half your digital life already. Recent media coverage has shown us that
   Facebook's use of our data may not be the way we wanted. The proper response
   is not giving that data away in the first place.
 - /Hypothesis provides proper interaction for commentary and annotation./ You
-  can annotate anything you see on a web site. You can comment on the document
+  may annotate anything you see on a web site. You can comment on the document
   instead, if you prefer. You can comment on someone else's comment.
 
 I do not want to own your comments. I want /you/ to own them. If you own them,
@@ -85,5 +85,10 @@ this snippet on the pages where you want Hypothesis to load:
   </script>
   <script src="https://hypothes.is/embed.js" async></script>
 #+END_SRC
+
+I'm using a slightly modified setup, to avoid loading the comment system unless
+you need it, which lets you load this site quicker. Right click paragraph
+following about the commenting system and click "inspect element" if you're
+interested.
 
 That's all for now!
