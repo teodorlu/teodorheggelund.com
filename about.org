@@ -2,6 +2,12 @@
 title: About me
 ---
 Hello!
+
+My name is Teodor, and I mainatin this website to share information and learn
+something from the process of doing so.
+
+I'm a technologist with experience in programming and civil engineering,
+motivated to learn, teach and discuss what matters.
 ** Contact
 Contact me at [[mailto:teodor@teodorheggelund.com][teodor@teodorheggelund.com]].
 ** This website
