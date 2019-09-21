@@ -5,17 +5,22 @@ title: Resources
 This is an unordered, opinionated list of useful things on the Internet. Things
 I find valuable, things I don't want to get lost. Things I want to read again.
 
+This list is a little biased towards Haskell programming, which reflects what I
+was learning at the time ...
+
 ** Learning resources
+I've found these resources exceptionally effective for learning:
+
 - [[https://learnxinyminutes.com][Learn X in Y minutes]] is a high-quality, high-density introduction to a variety
   of technical topics with emphasis on demonstration.
-- Stephen Diehl's [[http://dev.stephendiehl.com/hask/][What I Wish I Knew When Learning Haskell]] is a high-quality
-  introduction to Haskell. Diehl has other well-written resources on his main
   [[http://www.stephendiehl.com/][web site]].
 - The [[http://www.pathname.com/fhs/][Filesystem Hierarchy Standard]] describes where things should be on Unix
   systems.
 - [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]] is a seminal MIT book on
   computer science by means of Scheme.
 ** Principles and ideas
+Make sure you're solving the right problem. Perspective is valuable.
+
 - [[http://www.dougengelbart.org/firsts/dougs-1968-demo.html][Doug Engelbart's 1968 Mother Of All Demos]] is an interactive walk-through of a
   wealth of technological innovations. Some of which, we still don't have access
   to fifty years later! 
@@ -23,7 +28,20 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   what they're creating/.
 - [[https://www.dreamsongs.com][Dreamsongs by Richard P. Gabriel]] is the works of a designer. Wrote /Patterns
   of Software/, an impressive book on software design.
+** Haskell programming
+Haskell is a purely fuctional programming language.
+
+- Stephen Diehl's [[http://dev.stephendiehl.com/hask/][What I Wish I Knew When Learning Haskell]] is a high-quality
+  introduction to Haskell. Diehl has other well-written resources on his main
+- [[http://www.cse.chalmers.se/~rjmh/Combinators/][Designing and Using Combinators: The Essence of Functional Programming]] is a
+  course by John Hughes, one of the "founders" of Haskell.
+- [[http://www.seas.upenn.edu/~cis194/spring13/lectures.html][CIS 194: Introduction to Haskell]] is a course taught at the University of
+  Pennsylvania, where the course material is published to the web.
+- [[https://skillsmatter.com/skillscasts/9098-haskell-in-the-large-the-day-to-day-practice-of-using-haskell-to-write-large-systems][Haskell in the Large]] is a talk on Haskell from a practical systems engineering
+  perspective.
 ** Uncategorized
+Feeling lucky? Have a peek.
+
 - [[http://paulgraham.com][Paul Graham]] has many interesting opinions on startups, lisp and life in
   general. Paul Graham has written /On Lisp/, which is [[http://unintelligible.org/onlisp/onlisp.html][available on-line]].
 - [[https://waitbutwhy.com/][Wait but why]] presents topics in-depth in the format of a blog.
@@ -42,10 +60,6 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   and presents good arguments why we should step [[http://tomasp.net/blog/2015/library-frameworks/][away from frameworks]], and
   towards [[http://tomasp.net/blog/2015/library-layers/][functional, scalable libraries]].
 - [[http://wiki.c2.com/][WikiWikiWeb]] discusses a range of topics, mostly related to programming.
-- [[http://www.cse.chalmers.se/~rjmh/Combinators/][Designing and Using Combinators: The Essence of Functional Programming]] is a
-  course by John Hughes, one of the "founders" of Haskell.
-- [[http://www.seas.upenn.edu/~cis194/spring13/lectures.html][CIS 194: Introduction to Haskell]] is a course taught at the University of
-  Pennsylvania, where the course material is published to the web.
 - [[https://www.joelonsoftware.com/][Joel On Software]] is a blog on software development and management by Joel
   Spolsky, who created [[https://trello.com/][Trello]] and co-created [[https://stackoverflow.com/][Stack Overflow]]. He usually has
   calibrated, practical opinions.
@@ -61,11 +75,8 @@ I find valuable, things I don't want to get lost. Things I want to read again.
   credentials to log in (somewhere). Reading the task there, you try to find the
   credentials for the next level!
 - [[http://jeffe.cs.illinois.edu/teaching/algorithms/][Algorithms]] is a free on-line textbook by Jeff Erickson.
-- [[https://skillsmatter.com/skillscasts/9098-haskell-in-the-large-the-day-to-day-practice-of-using-haskell-to-write-large-systems][Haskell in the Large]] is a talk on Haskell from a practical systems engineering
-  perspective.
 - [[https://martinfowler.com/][Martin Fowler]] has written a book on [[https://martinfowler.com/books/dsl.html][Domain Specific Languages]] and signed the
   original Agile Manifesto.
 - [[http://www.howardabrams.com/][Howard Abrams]] has demonstrated [[http://www.howardism.org/Technical/Emacs/literate-devops.html][literate DevOps]] with Org-mode, and is heavily
   Emacs-driven.
 - [[http://www.imagination-land.org/][Marc-Antoine Perennou]] has made [[http://www.imagination-land.org/posts/2012-11-22-knowing-your-system-part-basics-on-unixlike-systems.html][a series of blog posts covering Unix basics]].
-- [[http://mrmrs.cc][@mrmrs]] made Tachyons, and provides a designer's perspective.
