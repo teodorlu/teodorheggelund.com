@@ -107,7 +107,7 @@ a breakneck pace of one per week. I will definitely be catching up!
 
 ** [[https://soundcloud.com/user-959992602/s1-e4-state-with-russ-olsen][ClojureScript podcast S1E4]]: State with Russ Olsen, author of /Getting Clojure/
 In the /[[https://clojurescriptpodcast.com/][ClojureScript podcast]]/, host Jacek Shae, creator of on-line courses for
-learning [[https://www.learnreagent.com][Reagent]] and [[https://www.learnreframe.com/][Re-frame]] discusses various aspects of ClojureScript
+learning [[https://www.learnreagent.com][Reagent]] and [[https://www.learnreframe.com/][Re-frame]], discusses various aspects of ClojureScript
 programming with prominent community members. Russ Olsen had the honor of
 explaining Clojure through episodes 2, 3 and 4, focusing on data, code and
 state. In episode 4 on state, Olsen gives a ground-up explanation of how state
@@ -124,7 +124,9 @@ the experts have to say?
 *Listening status*: I've listened to all the episodes of season 1 (9 in total),
  and I eagerly await season 2.
 
-...
+#+begin_center
+~
+#+end_center
 
 That's all the podcasts I've got for now! I hope you find this useful. If you
 have any favorites, please follow up in the [[https://clojureverse.org/t/a-guided-tour-for-the-clojure-podcasting-ecosystem/4634][ClojureVerse discussion thread]]. (You
