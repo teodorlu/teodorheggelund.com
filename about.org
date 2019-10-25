@@ -9,6 +9,6 @@ something from the process of doing so.
 I'm a technologist with experience in programming and civil engineering,
 motivated to learn, teach and discuss what matters.
 ** Contact
-Contact me at [[mailto:teodor@teodorheggelund.com][teodor@teodorheggelund.com]].
+Please contact me at [[mailto:contact+web@teodorheggelund.com][contact+web@teodorheggelund.com]].
 ** This website
 You'll find the source code for this site on [[https://github.com/teodorlu/teodorheggelund.com][Github]].
