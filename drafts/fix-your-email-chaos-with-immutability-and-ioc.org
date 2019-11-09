@@ -1,0 +1,34 @@
+---
+title: Fix your E-mail chaos with immutability and inversion of control
+author: Teodor Heggelund
+date: 2019-11-09
+---
+
+*State: DRAFTED OUTLINE*
+
+Principles:
+
+1. One E-mail address per service. If they sell your E-mail, you know who to
+   distrust, and you can create a specific rule to disallow their E-mail.
+2. Keep an internal mapping between "immutable" accounts and priority.
+
+Together, these two allow you to cleanly separate what E-mail you get from
+accounts, and what E-mail you get from other people.
+
+Requirements:
+
+- You must have your own domain.
+- Your E-mail provider must have a flexible rule system. I use Fastmail, which
+  works great for me.
+
+So, what are nice mechanisms for this?
+
+- One general catch-all Other folder.
+- One E-mail just for humans.
+- You're able to provide categorization. I differentiate between general
+  accounts (services+SERVICENAME@mydomain.com), shopping
+  (shopping+SERVICENAME@mydomain.com) and tickets and booking
+  (booking+SERVICENAME@teodorheggelund.com).
+- I generally exclude everything but mail from people from my Inbox.
+- When I've read and acted on the E-mail in my inbox, I archive it.
+- E-mail from services usually stays in its category for retrieval, if needed.
