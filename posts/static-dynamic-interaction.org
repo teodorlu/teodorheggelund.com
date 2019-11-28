@@ -8,7 +8,7 @@ Keywords: /philosophy/, /change/, /stability/, /computer-science/, /planning/
 
 Is structure merely standardization? Is something "structured" when there are a
 set of rules? In order to evaluate the rules, we need to see how well they work.
-What are their utility? What is their role when dynamically interacting with the
+What is their utility? What is their role when dynamically interacting with the
 real world?
 
 ** From mere rules to understanding why
