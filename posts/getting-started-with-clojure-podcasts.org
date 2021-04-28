@@ -73,7 +73,7 @@ concurrency primitives other than atoms.
  fifteen or so latest episodes. Looking forward to future commute opportunities!
 
 ** [[https://soundcloud.com/defn-771544745/41-timothy-baldridge-aka-halgari][defn #41]]: Timothy Baldridge aka @halgari
-In the /[[https://soundcloud.com/defn-771544745/tracks][defn podcast]]/, Vilay and Ray invite guests for a casual chat on Sundays.
+In the /[[https://soundcloud.com/defn-771544745/tracks][defn podcast]]/, Vijay and Ray invite guests for a casual chat on Sundays.
 With Timothy Baldridge, I felt that the conversation flowed especially well.
 Timothy Baldridge made key contributions to core.async, and has a
 perspective on language design that on good days rivals Rich Hickey's.
@@ -106,7 +106,7 @@ that build from the ground up.
 a breakneck pace of one per week. I will definitely be catching up!
 
 ** [[https://soundcloud.com/user-959992602/s1-e4-state-with-russ-olsen][ClojureScript podcast S1E4]]: State with Russ Olsen, author of /Getting Clojure/
-In the /[[https://clojurescriptpodcast.com/][ClojureScript podcast]]/, host Jacek Shae, creator of on-line courses for
+In the /[[https://clojurescriptpodcast.com/][ClojureScript podcast]]/, host Jacek Schae, creator of on-line courses for
 learning [[https://www.learnreagent.com][Reagent]] and [[https://www.learnreframe.com/][Re-frame]], discusses various aspects of ClojureScript
 programming with prominent community members. Russ Olsen had the honor of
 explaining Clojure through episodes 2, 3 and 4, focusing on data, code and
