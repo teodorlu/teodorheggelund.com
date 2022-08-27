@@ -3,7 +3,7 @@ title: About me
 ---
 Hello!
 
-My name is Teodor, and I mainatin this website to share information and learn
+My name is Teodor, and I maintain this website to share information and learn
 something from the process of doing so.
 
 I'm a technologist with experience in programming and civil engineering,
